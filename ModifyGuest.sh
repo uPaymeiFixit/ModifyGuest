@@ -31,9 +31,9 @@ cecho "###############################################" $red
 cecho "#${white}    This script will walk you through        ${red}#" $red
 cecho "#${white}    modifying the default Guest account.     ${red}#" $red
 cecho "#${white}                                             ${red}#" $red
-cecho "#${white}   If this is your first time doing this     ${red}#" $red
-cecho "#${white}   you will be prompted to have a backup     ${red}#" $red
-cecho "#${white}  made. Would you like to continue? (y/n)    ${red}#" $red
+cecho "#${white}   If it is your first time doing this       ${red}#" $red
+cecho "#${white}   a backup will be made automatically.      ${red}#" $red
+cecho "#${white}     Would you like to continue? (y/n)       ${red}#" $red
 cecho "###############################################" $red
 
 read -r response
@@ -72,14 +72,14 @@ else
 
     # Check if a backup exists
     if sudo [ ! -d /System/Library/User\ Template/English.lproj.backup ]; then
-        echo ""
-        cecho "No backup was found, would you like to make one before you begin?  (y/n)" $cyan
-        read -r response
-        if [[ $response =~ ^([yY][eE][sS]|[yY])$ ]]; then
+        #echo ""
+        #cecho "No backup was found, would you like to make one before you begin?  (y/n)" $cyan
+        #read -r response
+        #if [[ $response =~ ^([yY][eE][sS]|[yY])$ ]]; then
             #Makes a backup
             cecho "A backup has been created in \"/System/Library/User\ Template/English.lproj.backup\"" $magenta
             sudo cp -R /System/Library/User\ Template/English.lproj /System/Library/User\ Template/English.lproj.backup
-        fi
+        #fi
     fi
 
     echo ""
