@@ -31,7 +31,7 @@ cecho "###############################################" $red
 cecho "#${white}    This script will walk you through        ${red}#" $red
 cecho "#${white}    modifying the default Guest account.     ${red}#" $red
 cecho "#${white}                                             ${red}#" $red
-cecho "#${white}   If it is your first time doing this       ${red}#" $red
+cecho "#${white}  If this is your first time running this,   ${red}#" $red
 cecho "#${white}   a backup will be made automatically.      ${red}#" $red
 cecho "#${white}     Would you like to continue? (y/n)       ${red}#" $red
 cecho "###############################################" $red
@@ -80,13 +80,15 @@ else
             cecho "A backup has been created in \"/System/Library/User\ Template/English.lproj.backup\"" $magenta
             sudo cp -R /System/Library/User\ Template/English.lproj /System/Library/User\ Template/English.lproj.backup
         #fi
+    else
+    	cecho "No backup was made. Previous backup is in \"/System/Library/User\ Template/English.lproj.backup\"" $magenta
     fi
 
     echo ""
     cecho "###############################################" $red
     cecho "#${green}                    Step 2                   ${red}#" $red
     cecho "#${white}         Switch to the Guest account.        ${red}#" $red
-    cecho "#${white}    (Do not log out of yoru main account)    ${red}#" $red
+    cecho "#${white}    (Do not log out of your main account)    ${red}#" $red
     cecho "#${white}                                             ${red}#" $red
     cecho "#${green}                    Step 3                   ${red}#" $red
     cecho "#${white}    Set up the Guest account exactly how     ${red}#" $red
