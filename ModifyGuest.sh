@@ -1,5 +1,9 @@
 #!/bin/sh
 
+# NOTE: If you run into problems with being asked for the password
+# for some keychain thing, run the following command: 
+#   sudo rm -r /System/Library/User Template/English.lproj/Library/Keychains/*
+
 #TODO - Make restore/backup utility that allows multiple backups
 #TODO - Select languages other than English
 
