@@ -1,0 +1,352 @@
+07/29/15 21:47:05:597 | [INFO] | 33527 | ACCC | C3App | ApplicationContext |  | C3App | 229750 | ************************* START Adobe Creative Cloud. Version: 2.2.0.129 *************************
+07/29/15 21:47:05:606 | [INFO] | 33527 | ACCC | Core | AsyncMessageProcessor |  | Core | 229750 | AsyncMessageProcessorMac initialized...
+07/29/15 21:47:05:607 | [INFO] | 33527 | ACCC | Core | AsyncMessageProcessor |  | Core | 229750 | AsyncMessageProcessorMac Message Queue initialized...
+07/29/15 21:47:05:717 | [INFO] | 33527 | ACCC | Core | AppletManager |  | Core | 229750 | Loading PIM library from path: /Library/Application Support/Adobe/Adobe Desktop Common/Core/AdobePIM.dylib
+07/29/15 21:47:05:718 | [INFO] | 33527 | ACCC | Core | AppletManager |  | Core | 229750 | Querying applet database
+07/29/15 21:47:05:824 | [INFO] | 33527 | ACCC | Core | AppletManager |  | Core | 229750 | Registering Applets...
+07/29/15 21:47:05:855 | [INFO] | 33527 | ACCC | Core | AppletManager |  | Core | 229750 | Registering Applets...
+07/29/15 21:47:06:010 | [INFO] | 33527 | ACCC | Core | AppletManager |  | Core | 229750 | Identifying applet relationships...
+07/29/15 21:47:06:069 | [INFO] | 33527 | ACCC | Core | AppletManager |  | Core | 229750 | Identifying applet relationships...
+07/29/15 21:47:06:082 | [INFO] | 33527 | ACCC | Core | Applet |  | Core | 229750 | Loading Applet - CmdCntr_CoreExt for InstanceID - CoreInstance
+07/29/15 21:47:07:500 | [INFO] | 33527 | ACCC | VulcanWrapper | VulcanInterface |  | VulcanWrapper | 230018 | Received RefreshEndPoints callback:
+07/29/15 21:47:07:513 | [INFO] | 33527 | ACCC | Core | Applet |  | Core | 229750 | Loading Applet - C3Prefs_CoreExt for InstanceID - CoreInstance
+07/29/15 21:47:07:516 | [INFO] | 33527 | ACCC | C3PrefsCoreExt |  |  | C3PrefsCoreExt | 229750 | Initialize called: <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CommandLineArguments ApplicationID="ACCC" IsServiceInstance="0">
+    <appletID>C3Prefs_CoreExt</appletID>
+    <appletVersion>1.0</appletVersion>
+    <appletInstanceID>CoreInstance</appletInstanceID>
+    <appletDIR>/Library/Application Support/Adobe/Adobe Desktop Common/CoreExt</appletDIR>
+</CommandLineArguments>
+07/29/15 21:47:07:517 | [INFO] | 33527 | ACCC | Core | Applet |  | Core | 229750 | Loading Applet - LocManager_CoreExt for InstanceID - CoreInstance
+07/29/15 21:47:07:519 | [INFO] | 33527 | ACCC | LocalizationManager |  |  | LocalizationManager | 229750 | LocalizationManager Initialized
+07/29/15 21:47:07:519 | [INFO] | 33527 | ACCC | Core | Applet |  | Core | 229750 | Loading Applet - Analytics_CoreExt for InstanceID - CoreInstance
+07/29/15 21:47:07:522 | [INFO] | 33527 | ACCC | ACE | ACE |  | ACE | 229750 | ACE Initialized
+07/29/15 21:47:07:575 | [INFO] | 33527 | ACCC | C3PrefsCoreExt | C3PrefsMessageProcessor |  | C3PrefsCoreExt | 229750 | Inside GetLocalConfigXmlPath
+07/29/15 21:47:07:767 | [WARN] | 33527 | ACCC | C3PrefsCoreExt |  |  | C3PrefsCoreExt | 229750 | Could not initialize C3Config sig file as XML data
+07/29/15 21:47:07:768 | [INFO] | 33527 | ACCC | ACE |  |  | ACE | 229750 | ETS environment is: 7
+07/29/15 21:47:07:770 | [INFO] | 33527 | ACCC | ACE |  |  | ACE | 229750 | OS Bitness is: 64
+07/29/15 21:47:08:270 | [INFO] | 33527 | ACCC | C3App | LocalizationManager |  | C3App | 229750 | Dictionary Path: /Applications/Utilities/Adobe Creative Cloud/ACC/Creative Cloud.app/Contents/Resources/Dictionary/en_US/stringTable.zdct
+07/29/15 21:47:08:271 | [INFO] | 33527 | ACCC | C3App | LocalizationManager |  | C3App | 229750 | Dictionary reading successful.
+07/29/15 21:47:08:295 | [INFO] | 33527 | ACCC | Core | Applet |  | Core | 229750 | Loading Applet - HEX_UIX for InstanceID - UIXInstance
+07/29/15 21:47:08:668 | [INFO] | 33527 | ACCC | HEX |  |  | HEX | 229750 | Initialize called: <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CommandLineArguments ApplicationID="" IsServiceInstance="">
+    <appletID>HEX_UIX</appletID>
+    <appletVersion>1.0</appletVersion>
+    <appletInstanceID>UIXInstance</appletInstanceID>
+    <appletDIR>/Library/Application Support/Adobe/Adobe Desktop Common/HEX</appletDIR>
+</CommandLineArguments>
+07/29/15 21:47:08:679 | [INFO] | 33527 | ACCC | Core | Applet |  | Core | 229750 | Loading Applet - C3Container_UINative for InstanceID - 58C4C902-4571-46C4-B7D6-A0587B18870D
+07/29/15 21:47:09:209 | [INFO] | 33527 | ACCC | c3containerUI | UIManager |  | c3containerUI | 229750 | CreateView
+07/29/15 21:47:09:752 | [INFO] | 33527 | ACCC | c3containerUI | UIManager |  | c3containerUI | 229750 | Load UICore & UIMain
+07/29/15 21:47:09:752 | [INFO] | 33527 | ACCC | HEX | HEX |  | HEX | 229750 | Inside LoadBindings
+07/29/15 21:47:09:753 | [INFO] | 33527 | ACCC | HEX | HEX |  | HEX | 229750 | Inside LoadBindings
+07/29/15 21:47:09:754 | [INFO] | 33527 | ACCC | HEX | HEX |  | HEX | 229750 | Inside LoadBindings
+07/29/15 21:47:09:760 | [INFO] | 33527 | ACCC | HEX | HEX |  | HEX | 229750 | Inside loadEventBindings
+07/29/15 21:47:09:761 | [INFO] | 33527 | ACCC | HEX | HEX |  | HEX | 229750 | Return from loadEventBindings: 1
+07/29/15 21:47:09:761 | [INFO] | 33527 | ACCC | HEX | HEX |  | HEX | 229750 | Inside loadPropertyBindings
+07/29/15 21:47:09:762 | [INFO] | 33527 | ACCC | HEX | HEX |  | HEX | 229750 | Inside registerPropertyBindingsWithCore
+07/29/15 21:47:09:763 | [WARN] | 33527 | ACCC | Core | CoreCommandHandler |  | Core | 229750 | No property specified in RegisterProperties xml data
+07/29/15 21:47:09:763 | [INFO] | 33527 | ACCC | HEX | HEX |  | HEX | 229750 | Return from registerPropertyBindingsWithCore
+07/29/15 21:47:09:763 | [INFO] | 33527 | ACCC | HEX | HEX |  | HEX | 229750 | Return from loadPropertyBindings: 1
+07/29/15 21:47:09:764 | [INFO] | 33527 | ACCC | HEX | HEX |  | HEX | 229750 | Inside LoadBindings
+07/29/15 21:47:09:775 | [INFO] | 33527 | ACCC | HEX | HEX |  | HEX | 229750 | Inside loadEventBindings
+07/29/15 21:47:09:776 | [INFO] | 33527 | ACCC | HEX | HEX |  | HEX | 229750 | Return from loadEventBindings: 1
+07/29/15 21:47:09:776 | [INFO] | 33527 | ACCC | HEX | HEX |  | HEX | 229750 | Inside loadPropertyBindings
+07/29/15 21:47:09:777 | [INFO] | 33527 | ACCC | HEX | HEX |  | HEX | 229750 | Inside registerPropertyBindingsWithCore
+07/29/15 21:47:09:777 | [WARN] | 33527 | ACCC | Core | CoreCommandHandler |  | Core | 229750 | No property specified in RegisterProperties xml data
+07/29/15 21:47:09:778 | [INFO] | 33527 | ACCC | HEX | HEX |  | HEX | 229750 | Return from registerPropertyBindingsWithCore
+07/29/15 21:47:09:778 | [INFO] | 33527 | ACCC | HEX | HEX |  | HEX | 229750 | Return from loadPropertyBindings: 1
+07/29/15 21:47:09:778 | [INFO] | 33527 | ACCC | HEX | HEX |  | HEX | 229750 | Inside LoadBindings
+07/29/15 21:47:09:779 | [INFO] | 33527 | ACCC | HEX | HEX |  | HEX | 229750 | Inside LoadBindings
+07/29/15 21:47:09:780 | [INFO] | 33527 | ACCC | HEX | HEX |  | HEX | 229750 | Inside LoadBindings
+07/29/15 21:47:09:781 | [INFO] | 33527 | ACCC | HEX | HEX |  | HEX | 229750 | Inside loadEventBindings
+07/29/15 21:47:09:782 | [INFO] | 33527 | ACCC | HEX | HEX |  | HEX | 229750 | Return from loadEventBindings: 1
+07/29/15 21:47:09:782 | [INFO] | 33527 | ACCC | HEX | HEX |  | HEX | 229750 | Inside loadPropertyBindings
+07/29/15 21:47:09:783 | [INFO] | 33527 | ACCC | HEX | HEX |  | HEX | 229750 | propertyBindings Node not present in XML
+07/29/15 21:47:09:783 | [INFO] | 33527 | ACCC | HEX | HEX |  | HEX | 229750 | Inside registerPropertyBindingsWithCore
+07/29/15 21:47:09:784 | [WARN] | 33527 | ACCC | Core | CoreCommandHandler |  | Core | 229750 | No property specified in RegisterProperties xml data
+07/29/15 21:47:09:784 | [INFO] | 33527 | ACCC | HEX | HEX |  | HEX | 229750 | Return from registerPropertyBindingsWithCore
+07/29/15 21:47:09:784 | [INFO] | 33527 | ACCC | HEX | HEX |  | HEX | 229750 | Return from loadPropertyBindings: 0
+07/29/15 21:47:09:785 | [INFO] | 33527 | ACCC | HEX | HEX |  | HEX | 229750 | Inside LoadBindings
+07/29/15 21:47:09:786 | [INFO] | 33527 | ACCC | HEX | HEX |  | HEX | 229750 | Inside LoadBindings
+07/29/15 21:47:09:787 | [INFO] | 33527 | ACCC | HEX | HEX |  | HEX | 229750 | Inside LoadBindings
+07/29/15 21:47:09:790 | [INFO] | 33527 | ACCC | LocalizationManager |  |  | LocalizationManager | 229750 | Inside GetLocaleForApplet
+07/29/15 21:47:09:805 | [INFO] | 33527 | ACCC | c3containerUI | UIManager |  | c3containerUI | 229750 | View Created
+07/29/15 21:47:10:006 | [INFO] | 33527 | ACCC | c3containerUI | UserProfileData |  | c3containerUI | 229879 | Get Profile Data...
+07/29/15 21:47:10:006 | [WARN] | 33527 | ACCC | c3containerUI | UserProfileData |  | c3containerUI | 229879 | User Profile Data not present!
+07/29/15 21:47:10:006 | [INFO] |  | ACCC | Analytics | ETSFramework |  |  | 229879 | Event Guid generated is: 'ec91fded-736d-48cd-9806-a44945e5683b'
+07/29/15 21:47:10:007 | [INFO] |  | ACCC | Analytics | ETSFramework |  |  | 230338 | Event with guid 'ec91fded-736d-48cd-9806-a44945e5683b' is being sent
+07/29/15 21:47:10:769 | [INFO] | 33527 | ACCC | VulcanWrapper | VulcanInterface |  | VulcanWrapper | 230018 | Received RefreshEndPoints callback:
+07/29/15 21:47:10:779 | [WARN] | 33527 | ACCC | VulcanWrapper | VulcanInterface |  | VulcanWrapper | 230608 | Could not get ADCS endpoint, ignoring message !
+07/29/15 21:47:11:044 | [INFO] | 50596 | ADCS | C3App | ApplicationContext |  | C3App | 230710 | ************************* START Adobe Creative Cloud. Version: 2.2.0.129 *************************
+07/29/15 21:47:11:046 | [INFO] | 50596 | ADCS | Core | AsyncMessageProcessor |  | Core | 230710 | AsyncMessageProcessorMac initialized...
+07/29/15 21:47:11:046 | [INFO] | 50596 | ADCS | Core | AsyncMessageProcessor |  | Core | 230710 | AsyncMessageProcessorMac Message Queue initialized...
+07/29/15 21:47:11:051 | [INFO] | 50596 | ADCS | Core | AppletManager |  | Core | 230710 | Loading PIM library from path: /Library/Application Support/Adobe/Adobe Desktop Common/Core/AdobePIM.dylib
+07/29/15 21:47:11:053 | [INFO] | 50596 | ADCS | Core | AppletManager |  | Core | 230710 | Querying applet database
+07/29/15 21:47:11:060 | [INFO] | 50596 | ADCS | Core | AppletManager |  | Core | 230710 | Registering Applets...
+07/29/15 21:47:11:239 | [INFO] | 50596 | ADCS | Core | AppletManager |  | Core | 230710 | Registering Applets...
+07/29/15 21:47:11:250 | [INFO] | 50596 | ADCS | Core | AppletManager |  | Core | 230710 | Registering Applets...
+07/29/15 21:47:11:262 | [INFO] | 50596 | ADCS | Core | AppletManager |  | Core | 230710 | Identifying applet relationships...
+07/29/15 21:47:11:263 | [INFO] | 50596 | ADCS | Core | AppletManager |  | Core | 230710 | Applet relationship information not present!
+07/29/15 21:47:11:263 | [INFO] | 50596 | ADCS | Core | AppletManager |  | Core | 230710 | Identifying applet relationships...
+07/29/15 21:47:11:265 | [INFO] | 50596 | ADCS | Core | AppletManager |  | Core | 230710 | Identifying applet relationships...
+07/29/15 21:47:11:348 | [INFO] | 50596 | ADCS | Core | AppletManager |  | Core | 230710 | CoreExtensions tag missing, loading all the available coreExtentions
+07/29/15 21:47:11:349 | [INFO] | 50596 | ADCS | Core | Applet |  | Core | 230710 | Loading Applet - CmdCntr_CoreExt for InstanceID - CoreInstance
+07/29/15 21:47:11:366 | [INFO] | 50596 | ADCS | VulcanWrapper | VulcanInterface |  | VulcanWrapper | 230777 | Received RefreshEndPoints callback:
+07/29/15 21:47:11:366 | [INFO] | 50596 | ADCS | Core | Applet |  | Core | 230710 | Loading Applet - C3Prefs_CoreExt for InstanceID - CoreInstance
+07/29/15 21:47:11:370 | [INFO] | 50596 | ADCS | C3PrefsCoreExt |  |  | C3PrefsCoreExt | 230710 | Initialize called: <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CommandLineArguments ApplicationID="ADCS" IsServiceInstance="1">
+    <appletID>C3Prefs_CoreExt</appletID>
+    <appletVersion>1.0</appletVersion>
+    <appletInstanceID>CoreInstance</appletInstanceID>
+    <appletDIR>/Library/Application Support/Adobe/Adobe Desktop Common/CoreExt</appletDIR>
+</CommandLineArguments>
+07/29/15 21:47:11:370 | [INFO] | 50596 | ADCS | Core | Applet |  | Core | 230710 | Loading Applet - LocManager_CoreExt for InstanceID - CoreInstance
+07/29/15 21:47:11:375 | [INFO] | 50596 | ADCS | LocalizationManager |  |  | LocalizationManager | 230710 | LocalizationManager Initialized
+07/29/15 21:47:11:375 | [INFO] | 50596 | ADCS | Core | Applet |  | Core | 230710 | Loading Applet - Analytics_CoreExt for InstanceID - CoreInstance
+07/29/15 21:47:11:378 | [INFO] | 50596 | ADCS | ACE | ACE |  | ACE | 230710 | ACE Initialized
+07/29/15 21:47:11:379 | [INFO] | 50596 | ADCS | C3PrefsCoreExt | C3PrefsMessageProcessor |  | C3PrefsCoreExt | 230710 | Inside GetLocalConfigXmlPath
+07/29/15 21:47:11:431 | [WARN] | 50596 | ADCS | C3PrefsCoreExt |  |  | C3PrefsCoreExt | 230710 | Could not initialize C3Config sig file as XML data
+07/29/15 21:47:11:432 | [INFO] | 50596 | ADCS | ACE |  |  | ACE | 230710 | ETS environment is: 7
+07/29/15 21:47:11:433 | [INFO] | 50596 | ADCS | ACE |  |  | ACE | 230710 | OS Bitness is: 64
+07/29/15 21:47:11:434 | [INFO] | 50596 | ADCS | Core | Applet |  | Core | 230710 | Loading Applet - ElevationManager_CoreExt for InstanceID - CoreInstance
+07/29/15 21:47:11:494 | [INFO] | 50596 | ADCS | ElevationManager |  |  | ElevationManager | 230710 | Initialize called: <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CommandLineArguments ApplicationID="ADCS" IsServiceInstance="1">
+    <appletID>ElevationManager_CoreExt</appletID>
+    <appletVersion>1.0</appletVersion>
+    <appletInstanceID>CoreInstance</appletInstanceID>
+    <appletDIR>/Library/Application Support/Adobe/Adobe Desktop Common/ElevationManager</appletDIR>
+</CommandLineArguments>
+07/29/15 21:47:11:497 | [INFO] | 50596 | ADCS | ElevationManager | ElevationManagerIPC |  | ElevationManager | 230802 | Initializing Connection Channel with Service with pipename: F7C71944B49B446081C0603DE90E4855
+07/29/15 21:47:11:501 | [INFO] | 50596 | ADCS | LocalizationManager | LocalizationManager |  | LocalizationManager | 230710 | Dictionary Path: /Library/Application Support/Adobe/Adobe Desktop Common/ElevationManager/resource/Dictionary/en_US/stringTable.zdct
+07/29/15 21:47:11:501 | [INFO] | 50596 | ADCS | LocalizationManager | LocalizationManager |  | LocalizationManager | 230710 | Dictionary reading successful.
+07/29/15 21:47:11:502 | [INFO] | 50596 | ADCS | Core | Applet |  | Core | 230710 | Loading Applet - ANSClient_CoreExt for InstanceID - CoreInstance
+07/29/15 21:47:11:554 | [INFO] | 50596 | ADCS | ANSClient |  |  | ANSClient | 230710 | Initialize called: <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CommandLineArguments ApplicationID="ADCS" IsServiceInstance="1">
+    <appletID>ANSClient_CoreExt</appletID>
+    <appletVersion>1.0</appletVersion>
+    <appletInstanceID>CoreInstance</appletInstanceID>
+    <appletDIR>/Library/Application Support/Adobe/Adobe Desktop Common/Notifications</appletDIR>
+</CommandLineArguments>
+07/29/15 21:47:11:598 | [INFO] | 50596 | ADCS | ElevationManager | ElevationManagerIPC |  | ElevationManager | 230802 | Success: Initializing Connection Channel with Service with pipename: F7C71944B49B446081C0603DE90E4855
+07/29/15 21:47:11:598 | [INFO] | 50596 | ADCS | ElevationManager | ElevationManagerIPC |  | ElevationManager | 230802 | Successfully crated connection thread
+07/29/15 21:47:11:598 | [INFO] | 50596 | ADCS | ElevationManager | ElevationManager |  | ElevationManager | 230802 | Successfully created connection channel
+07/29/15 21:47:11:623 | [INFO] | 50596 | ADCS | Core | Applet |  | Core | 230710 | Loading Applet - NotificationManager_CoreExt for InstanceID - CoreInstance
+07/29/15 21:47:11:640 | [INFO] | 50596 | ADCS | NotificationManager |  |  | NotificationManager | 230710 | Initialize called: <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CommandLineArguments ApplicationID="ADCS" IsServiceInstance="1">
+    <appletID>NotificationManager_CoreExt</appletID>
+    <appletVersion>1.0</appletVersion>
+    <appletInstanceID>CoreInstance</appletInstanceID>
+    <appletDIR>/Library/Application Support/Adobe/Adobe Desktop Common/Notifications</appletDIR>
+</CommandLineArguments>
+07/29/15 21:47:11:640 | [INFO] | 50596 | ADCS | C3PrefsCoreExt | C3PrefsMessageProcessor |  | C3PrefsCoreExt | 230710 | Inside GetLocalConfigXmlPath
+07/29/15 21:47:11:659 | [WARN] | 50596 | ADCS | C3PrefsCoreExt |  |  | C3PrefsCoreExt | 230710 | Could not initialize C3Config sig file as XML data
+07/29/15 21:47:11:665 | [INFO] | 50596 | ADCS | LocalizationManager | LocalizationManager |  | LocalizationManager | 230710 | Dictionary Path: /Library/Application Support/Adobe/Adobe Desktop Common/Notifications/Resources/NotificationManager/Dictionary/en_US/stringTable.zdct
+07/29/15 21:47:11:668 | [INFO] | 50596 | ADCS | LocalizationManager | LocalizationManager |  | LocalizationManager | 230710 | Dictionary reading successful.
+07/29/15 21:47:11:673 | [WARN] | 50596 | ADCS | Core | ExternalGateway |  | Core | 230710 | Message 'GetApplicationVersion': Target applet not loaded.
+07/29/15 21:47:11:674 | [INFO] | 50596 | ADCS | Core | Applet |  | Core | 230710 | Loading Applet - TrayNotificationManager_CoreExt for InstanceID - CoreInstance
+07/29/15 21:47:11:865 | [INFO] | 50596 | ADCS | NotificationManager |  |  | NotificationManager | 230710 | Initialize called: <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CommandLineArguments ApplicationID="ADCS" IsServiceInstance="1">
+    <appletID>TrayNotificationManager_CoreExt</appletID>
+    <appletVersion>1.0</appletVersion>
+    <appletInstanceID>CoreInstance</appletInstanceID>
+    <appletDIR>/Library/Application Support/Adobe/Adobe Desktop Common/Notifications</appletDIR>
+</CommandLineArguments>
+07/29/15 21:47:11:866 | [INFO] | 50596 | ADCS | NotificationManager | TrayNotificationManager |  | NotificationManager | 230710 | TrayNotificationManager Initialized
+07/29/15 21:47:11:867 | [INFO] | 50596 | ADCS | Core | Applet |  | Core | 230710 | Loading Applet - C3Container_BL for InstanceID - D60FD9D9-1FCB-4F20-9389-DB8C7E05F7E1
+07/29/15 21:47:11:889 | [WARN] | 50596 | ADCS | c3containerBL | CCDetectProxyServer |  | c3containerBL | 230710 | ERROR on binding to port : 15292
+07/29/15 21:47:11:889 | [WARN] | 50596 | ADCS | c3containerBL | CCDetectProxyServer |  | c3containerBL | 230710 | Not able to bind on to any available port
+07/29/15 21:47:11:895 | [INFO] | 33527 | ACCC | VulcanWrapper | VulcanInterface |  | VulcanWrapper | 230018 | Received RefreshEndPoints callback:
+07/29/15 21:47:11:898 | [WARN] | 50596 | ADCS | Core | ExternalGateway |  | Core | 230880 | There is no entry found for the request Id - DF60C62C-1894-49A9-8ECC-ED5BAD9A9F8B
+07/29/15 21:47:11:907 | [WARN] | 50596 | ADCS | Core | ExternalGateway |  | Core | 230881 | There is no entry found for the request Id - AC07F75A-05AE-4F94-BDDD-03CDF24D5E07
+07/29/15 21:47:11:919 | [INFO] | 50596 | ADCS | Core | CoreCommandHandler |  | Core | 230723 | HandleMessage: Message is not defined/implemented in core: ProcessCommandLine. Broadcasting to core extensions
+07/29/15 21:47:11:920 | [INFO] | 50596 | ADCS | Core | Applet |  | Core | 230710 | Loading Applet - SignInApp_BL for InstanceID - D60FD9D9-1FCB-4F20-9389-DB8C7E05F7E1
+07/29/15 21:47:12:020 | [INFO] | 50596 | ADCS | AEMSignIn |  |  | AEMSignIn | 230710 | Initialize called: <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CommandLineArguments ApplicationID="" IsServiceInstance="">
+    <appletID>SignInApp_BL</appletID>
+    <appletVersion>1.0</appletVersion>
+    <appletInstanceID>D60FD9D9-1FCB-4F20-9389-DB8C7E05F7E1</appletInstanceID>
+    <appletDIR>/Library/Application Support/Adobe/Adobe Desktop Common/SignInApp</appletDIR>
+</CommandLineArguments>
+07/29/15 21:47:12:035 | [INFO] | 50596 | ADCS | Core | Applet |  | Core | 230710 | Loading Applet - LWA_Native for InstanceID - D60FD9D9-1FCB-4F20-9389-DB8C7E05F7E1
+07/29/15 21:47:12:127 | [INFO] | 50596 | ADCS | C3PrefsCoreExt | C3PrefsMessageProcessor |  | C3PrefsCoreExt | 230710 | Inside GetLocalConfigXmlPath
+07/29/15 21:47:12:141 | [WARN] | 50596 | ADCS | C3PrefsCoreExt |  |  | C3PrefsCoreExt | 230710 | Could not initialize C3Config sig file as XML data
+07/29/15 21:47:12:141 | [INFO] | 50596 | ADCS | LocalizationManager |  |  | LocalizationManager | 230710 | Inside GetLocaleForApplet
+07/29/15 21:47:12:225 | [INFO] | 50596 | ADCS | Core | Applet |  | Core | 230710 | Loading Applet - HomePanel_BL for InstanceID - D60FD9D9-1FCB-4F20-9389-DB8C7E05F7E1
+07/29/15 21:47:12:270 | [INFO] | 50596 | ADCS | HomePanelBL |  |  | HomePanelBL | 230710 | Initialize called: <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CommandLineArguments ApplicationID="" IsServiceInstance="">
+    <appletID>HomePanel_BL</appletID>
+    <appletVersion>1.0</appletVersion>
+    <appletInstanceID>D60FD9D9-1FCB-4F20-9389-DB8C7E05F7E1</appletInstanceID>
+    <appletDIR>/Applications/Utilities/Adobe Creative Cloud/HomePanel/HomePanelBL.bundle/Contents/MacOS</appletDIR>
+</CommandLineArguments>
+07/29/15 21:47:12:272 | [INFO] | 50596 | ADCS | C3PrefsCoreExt | C3PrefsMessageProcessor |  | C3PrefsCoreExt | 230710 | Inside GetLocalConfigXmlPath
+07/29/15 21:47:12:367 | [WARN] | 50596 | ADCS | C3PrefsCoreExt |  |  | C3PrefsCoreExt | 230710 | Could not initialize C3Config sig file as XML data
+07/29/15 21:47:12:373 | [INFO] | 50596 | ADCS | LocalizationManager | LocalizationManager |  | LocalizationManager | 230710 | Dictionary Path: /Applications/Utilities/Adobe Creative Cloud/HomePanel/HomePanelBL.bundle/Contents/Resources/Dictionary/en_US/stringTable.zdct
+07/29/15 21:47:12:375 | [INFO] | 50596 | ADCS | LocalizationManager | LocalizationManager |  | LocalizationManager | 230710 | Dictionary reading successful.
+07/29/15 21:47:12:421 | [WARN] | 33527 | ACCC | Core | ExternalGateway |  | Core | 229750 | Invalid target type: Invalid for message: <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<command>
+    <requestID></requestID>
+    <targetType>Invalid</targetType>
+    <targetID></targetID>
+    <targetVersion></targetVersion>
+    <targetInstanceID></targetInstanceID>
+    <sourceID>HEX_UIX</sourceID>
+    <sourceVersion>1.0</sourceVersion>
+    <sourceInstanceID>UIXInstance</sourceInstanceID>
+    <message></message>
+    <isAsync>false</isAsync>
+    <enableLog>true</enableLog>
+    <mainThread>false</mainThread>
+    <isMsgExternal>false</isMsgExternal>
+    <xmlData></xmlData>
+</command>
+07/29/15 21:47:12:508 | [INFO] | 50596 | ADCS | Core | Applet |  | Core | 230710 | Loading Applet - AppsPanel_BL for InstanceID - D60FD9D9-1FCB-4F20-9389-DB8C7E05F7E1
+07/29/15 21:47:12:587 | [INFO] | 33527 | ACCC | c3containerUI | MessageHandler |  | c3containerUI | 230608 | Inside ActiveContainer
+07/29/15 21:47:12:620 | [INFO] | 50596 | ADCS | ProductsAppsBL |  |  | ProductsAppsBL | 230710 | Initialize called: <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CommandLineArguments ApplicationID="" IsServiceInstance="">
+    <appletID>AppsPanel_BL</appletID>
+    <appletVersion>1.0</appletVersion>
+    <appletInstanceID>D60FD9D9-1FCB-4F20-9389-DB8C7E05F7E1</appletInstanceID>
+    <appletDIR>/Applications/Utilities/Adobe Creative Cloud/AppsPanel/AppsPanelBL.bundle/Contents/MacOS</appletDIR>
+</CommandLineArguments>
+07/29/15 21:47:12:628 | [INFO] | 50596 | ADCS | LocalizationManager | LocalizationManager |  | LocalizationManager | 230710 | Dictionary Path: /Applications/Utilities/Adobe Creative Cloud/AppsPanel/AppsPanelBL.bundle/Contents/resource/Dictionary/en_US/stringTable.zdct
+07/29/15 21:47:12:642 | [INFO] | 50596 | ADCS | LocalizationManager | LocalizationManager |  | LocalizationManager | 230710 | Dictionary reading successful.
+07/29/15 21:47:12:761 | [INFO] | 50596 | ADCS | Core | Applet |  | Core | 230929 | Loading Applet - AppsPanel_IL for InstanceID - D60FD9D9-1FCB-4F20-9389-DB8C7E05F7E1
+07/29/15 21:47:12:783 | [INFO] | 50596 | ADCS | ProductsAppsIL |  |  | ProductsAppsIL | 230929 | Initialize called: <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CommandLineArguments ApplicationID="" IsServiceInstance="">
+    <appletID>AppsPanel_IL</appletID>
+    <appletVersion>1.0</appletVersion>
+    <appletInstanceID>D60FD9D9-1FCB-4F20-9389-DB8C7E05F7E1</appletInstanceID>
+    <appletDIR>/Applications/Utilities/Adobe Creative Cloud//AppsPanel</appletDIR>
+</CommandLineArguments>
+07/29/15 21:47:12:795 | [INFO] | 50596 | ADCS | ProductsAppsBL | SystemUtilities |  | ProductsAppsBL | 230929 | Current system is 64 bit
+07/29/15 21:47:12:797 | [WARN] | 50596 | ADCS | ProductsAppsBL | ProductsAppBLManager |  | ProductsAppsBL | 230929 | UI View is not created yet, Adding msg to queue
+07/29/15 21:47:12:799 | [WARN] | 50596 | ADCS | ProductsAppsBL | ProductsAppBLManager |  | ProductsAppsBL | 230929 | UI View is not created yet, Adding msg to queue
+07/29/15 21:47:12:803 | [WARN] | 33527 | ACCC | Core | ExternalGateway |  | Core | 230984 | There is no entry found for the request Id - D4CDA2C5-8EC8-47ED-95FD-3C99DF35A34A
+07/29/15 21:47:12:811 | [INFO] | 50596 | ADCS | Core | Applet |  | Core | 230710 | Loading Applet - AssetsPanel_BL for InstanceID - D60FD9D9-1FCB-4F20-9389-DB8C7E05F7E1
+07/29/15 21:47:12:869 | [INFO] | 50596 | ADCS | AssetsUI |  |  | AssetsUI | 230710 | Initialize called: <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CommandLineArguments ApplicationID="" IsServiceInstance="">
+    <appletID>AssetsPanel_BL</appletID>
+    <appletVersion>1.0</appletVersion>
+    <appletInstanceID>D60FD9D9-1FCB-4F20-9389-DB8C7E05F7E1</appletInstanceID>
+    <appletDIR>/Applications/Utilities/Adobe Creative Cloud//AssetsPanel</appletDIR>
+</CommandLineArguments>
+07/29/15 21:47:12:874 | [INFO] | 50596 | ADCS | LocalizationManager | LocalizationManager |  | LocalizationManager | 230710 | Dictionary Path: /Applications/Utilities/Adobe Creative Cloud//AssetsPanel/resource/Dictionary/en_US/stringTable.zdct
+07/29/15 21:47:12:874 | [INFO] | 50596 | ADCS | LocalizationManager | LocalizationManager |  | LocalizationManager | 230710 | Dictionary reading successful.
+07/29/15 21:47:12:885 | [INFO] | 50596 | ADCS | C3PrefsCoreExt | C3PrefsMessageProcessor |  | C3PrefsCoreExt | 230929 | Inside GetLocalConfigXmlPath
+07/29/15 21:47:12:889 | [INFO] | 50596 | ADCS | Core | Applet |  | Core | 230710 | Loading Applet - MarketPanel_BL for InstanceID - D60FD9D9-1FCB-4F20-9389-DB8C7E05F7E1
+07/29/15 21:47:12:900 | [WARN] | 50596 | ADCS | C3PrefsCoreExt |  |  | C3PrefsCoreExt | 230929 | Could not initialize C3Config sig file as XML data
+07/29/15 21:47:12:902 | [WARN] | 50596 | ADCS | ProductsAppsBL | BL_COMMAND_HANDLER |  | ProductsAppsBL | 230929 | Message Dropped - GetTabDisplayName
+07/29/15 21:47:12:999 | [INFO] | 50596 | ADCS | MarketAppBL |  |  | MarketAppBL | 230710 | Initialize called: <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CommandLineArguments ApplicationID="" IsServiceInstance="">
+    <appletID>MarketPanel_BL</appletID>
+    <appletVersion>1.0</appletVersion>
+    <appletInstanceID>D60FD9D9-1FCB-4F20-9389-DB8C7E05F7E1</appletInstanceID>
+    <appletDIR>/Applications/Utilities/Adobe Creative Cloud//MarketPanel</appletDIR>
+</CommandLineArguments>
+07/29/15 21:47:13:001 | [INFO] | 50596 | ADCS | C3PrefsCoreExt | C3PrefsMessageProcessor |  | C3PrefsCoreExt | 230710 | Inside GetLocalConfigXmlPath
+07/29/15 21:47:13:029 | [WARN] | 50596 | ADCS | C3PrefsCoreExt |  |  | C3PrefsCoreExt | 230710 | Could not initialize C3Config sig file as XML data
+07/29/15 21:47:13:030 | [INFO] | 50596 | ADCS | Core | Applet |  | Core | 230710 | Loading Applet - FilesPanel_BL for InstanceID - D60FD9D9-1FCB-4F20-9389-DB8C7E05F7E1
+07/29/15 21:47:13:129 | [INFO] | 50596 | ADCS | FileAppsUI |  |  | FileAppsUI | 230710 | Initialize called: <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CommandLineArguments ApplicationID="" IsServiceInstance="">
+    <appletID>FilesPanel_BL</appletID>
+    <appletVersion>1.0</appletVersion>
+    <appletInstanceID>D60FD9D9-1FCB-4F20-9389-DB8C7E05F7E1</appletInstanceID>
+    <appletDIR>/Applications/Utilities/Adobe Creative Cloud/FilesPanel/FilesPanelBL.bundle/Contents/MacOS</appletDIR>
+</CommandLineArguments>
+07/29/15 21:47:13:137 | [INFO] | 50596 | ADCS | LocalizationManager | LocalizationManager |  | LocalizationManager | 230710 | Dictionary Path: /Applications/Utilities/Adobe Creative Cloud/FilesPanel/FilesPanelBL.bundle/Contents/Resources/Dictionary/en_US/stringTable.zdct
+07/29/15 21:47:13:139 | [INFO] | 50596 | ADCS | LocalizationManager | LocalizationManager |  | LocalizationManager | 230710 | Dictionary reading successful.
+07/29/15 21:47:13:167 | [INFO] | 50596 | ADCS | Core | Applet |  | Core | 230710 | Loading Applet - FontsPanel_BL for InstanceID - D60FD9D9-1FCB-4F20-9389-DB8C7E05F7E1
+07/29/15 21:47:13:266 | [INFO] | 50596 | ADCS | FontsAppBL |  |  | FontsAppBL | 230710 | Initialize called: <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CommandLineArguments ApplicationID="" IsServiceInstance="">
+    <appletID>FontsPanel_BL</appletID>
+    <appletVersion>1.0</appletVersion>
+    <appletInstanceID>D60FD9D9-1FCB-4F20-9389-DB8C7E05F7E1</appletInstanceID>
+    <appletDIR>/Applications/Utilities/Adobe Creative Cloud/FontsPanel/FontsPanelBL.bundle/Contents/MacOS</appletDIR>
+</CommandLineArguments>
+07/29/15 21:47:13:267 | [INFO] | 50596 | ADCS | C3PrefsCoreExt | C3PrefsMessageProcessor |  | C3PrefsCoreExt | 230710 | Inside GetLocalConfigXmlPath
+07/29/15 21:47:13:335 | [WARN] | 50596 | ADCS | C3PrefsCoreExt |  |  | C3PrefsCoreExt | 230710 | Could not initialize C3Config sig file as XML data
+07/29/15 21:47:13:336 | [INFO] | 50596 | ADCS | LocalizationManager |  |  | LocalizationManager | 230710 | Inside GetLocaleForApplet
+07/29/15 21:47:13:367 | [INFO] | 50596 | ADCS | FontsAppBL | FONTS_PANEL |  | FontsAppBL | 230710 | Locale Used for applet: en_US
+07/29/15 21:47:13:369 | [INFO] | 50596 | ADCS | Core | Applet |  | Core | 230710 | Loading Applet - SPanel_BL for InstanceID - D60FD9D9-1FCB-4F20-9389-DB8C7E05F7E1
+07/29/15 21:47:13:393 | [INFO] | 50596 | ADCS | StockAppBL |  |  | StockAppBL | 230710 | Initialize called: <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CommandLineArguments ApplicationID="" IsServiceInstance="">
+    <appletID>SPanel_BL</appletID>
+    <appletVersion>1.0</appletVersion>
+    <appletInstanceID>D60FD9D9-1FCB-4F20-9389-DB8C7E05F7E1</appletInstanceID>
+    <appletDIR>/Applications/Utilities/Adobe Creative Cloud//SPanel</appletDIR>
+</CommandLineArguments>
+07/29/15 21:47:13:395 | [INFO] | 50596 | ADCS | LocalizationManager |  |  | LocalizationManager | 230710 | Inside GetLocaleForApplet
+07/29/15 21:47:13:397 | [INFO] | 50596 | ADCS | Core | Applet |  | Core | 230710 | Loading Applet - BehancePanel_BL for InstanceID - D60FD9D9-1FCB-4F20-9389-DB8C7E05F7E1
+07/29/15 21:47:13:427 | [INFO] | 50596 | ADCS | BehancePanelBL |  |  | BehancePanelBL | 230710 | Initialize called: <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CommandLineArguments ApplicationID="" IsServiceInstance="">
+    <appletID>BehancePanel_BL</appletID>
+    <appletVersion>1.0</appletVersion>
+    <appletInstanceID>D60FD9D9-1FCB-4F20-9389-DB8C7E05F7E1</appletInstanceID>
+    <appletDIR>/Applications/Utilities/Adobe Creative Cloud/BehancePanel/BehancePanelBL.bundle/Contents/MacOS</appletDIR>
+</CommandLineArguments>
+07/29/15 21:47:13:428 | [INFO] | 50596 | ADCS | C3PrefsCoreExt | C3PrefsMessageProcessor |  | C3PrefsCoreExt | 230710 | Inside GetLocalConfigXmlPath
+07/29/15 21:47:13:445 | [WARN] | 50596 | ADCS | C3PrefsCoreExt |  |  | C3PrefsCoreExt | 230710 | Could not initialize C3Config sig file as XML data
+07/29/15 21:47:13:446 | [INFO] | 50596 | ADCS | HomePanelBL | HomePanel_BL |  | HomePanelBL | 230710 | ProcessCommandLine received
+07/29/15 21:47:13:446 | [INFO] | 50596 | ADCS | HomePanelBL | HomePanel_BL |  | HomePanelBL | 230710 | ProcessCommandLine: No closeWindow message received
+07/29/15 21:47:13:446 | [INFO] | 50596 | ADCS | c3containerBL | CoreSyncHandler |  | c3containerBL | 230710 | launchCoreSync >> firstLaunch => 1
+07/29/15 21:47:13:447 | [INFO] | 50596 | ADCS | c3containerBL | CoreSyncHandler |  | c3containerBL | 230710 | postLaunchHook
+07/29/15 21:47:13:447 | [INFO] | 50596 | ADCS | c3containerBL | IMSLibHelper |  | c3containerBL | 230710 | Opening OOBELib session for DeviceID...
+07/29/15 21:47:13:660 | [INFO] | 50596 | ADCS | c3containerBL | IMSLibHelper |  | c3containerBL | 230710 | Opened PWASession with session key - 60294ADB-D4E5-465B-BB4D-E08EFE61992D
+07/29/15 21:47:13:660 | [INFO] | 50596 | ADCS | c3containerBL | IMSLibHelper |  | c3containerBL | 230710 | Performing getDeviceID...
+07/29/15 21:47:13:673 | [INFO] | 50596 | ADCS | c3containerBL | IMSLibHelper |  | c3containerBL | 230710 | deviceID => D3A898C723E70FDCACAB6FFF96310FA34D4C71352428CF58A3365B1AE977C22A
+07/29/15 21:47:13:673 | [INFO] | 50596 | ADCS | c3containerBL | IMSLibHelper |  | c3containerBL | 230710 | deviceName => Joshs-Desktop.local
+07/29/15 21:47:13:677 | [INFO] | 50596 | ADCS | c3containerBL | IMSLibHelper |  | c3containerBL | 230710 | MachineHashedID => 6287F10D1E285335FEF825E92D9D93C8
+07/29/15 21:47:13:677 | [INFO] | 50596 | ADCS | c3containerBL | IMSLibHelper |  | c3containerBL | 230710 | Closing OOBELib session : 60294ADB-D4E5-465B-BB4D-E08EFE61992D commit : 1
+07/29/15 21:47:13:713 | [INFO] | 50596 | ADCS | c3containerBL | IMSLibHelper |  | c3containerBL | 230710 | Done closing PWASession : 60294ADB-D4E5-465B-BB4D-E08EFE61992D
+07/29/15 21:47:13:716 | [WARN] | 50596 | ADCS | c3containerBL | MessageHandler |  | c3containerBL | 230710 | Failed in getting value for key in OPMGetValueForKey
+07/29/15 21:47:13:720 | [INFO] | 50596 | ADCS | c3containerBL | SignInStateMachine |  | c3containerBL | 230710 | changeState ~> 0 - 0 - 5
+07/29/15 21:47:13:720 | [INFO] | 50596 | ADCS | c3containerBL | SignInStateMachine |  | c3containerBL | 230710 | changeState ~> 0 - 1 - 5
+07/29/15 21:47:13:720 | [INFO] | 50596 | ADCS | c3containerBL | IMSLibHelper |  | c3containerBL | 230710 | Opening IMSSession...
+07/29/15 21:47:13:723 | [WARN] | 50596 | ADCS | c3containerBL | ContainerBLMessageHandler |  | c3containerBL | 230723 | GetUserProfileXml: No access token present. User not signed in.
+07/29/15 21:47:13:723 | [INFO] |  | ACCC | Analytics | ETSFramework |  |  | 230723 | Event Guid generated is: '5e12008e-1d2f-4e12-99f7-9d8a8c2caa09'
+07/29/15 21:47:13:724 | [INFO] |  | ACCC | Analytics | ETSFramework |  |  | 230788 | Event with guid '5e12008e-1d2f-4e12-99f7-9d8a8c2caa09' is being sent
+07/29/15 21:47:13:835 | [INFO] | 33527 | ACCC | VulcanWrapper | VulcanInterface |  | VulcanWrapper | 230018 | Received RefreshEndPoints callback:
+07/29/15 21:47:13:835 | [INFO] | 50596 | ADCS | VulcanWrapper | VulcanInterface |  | VulcanWrapper | 230777 | Received RefreshEndPoints callback:
+07/29/15 21:47:13:876 | [INFO] | 33527 | ACCC | VulcanWrapper | VulcanInterface |  | VulcanWrapper | 230018 | Refresh of end points called.
+07/29/15 21:47:13:876 | [INFO] | 50596 | ADCS | VulcanWrapper | VulcanInterface |  | VulcanWrapper | 230777 | Refresh of end points called.
+07/29/15 21:47:13:876 | [INFO] | 33527 | ACCC | VulcanWrapper | VulcanInterface |  | VulcanWrapper | 230018 | Received RefreshEndPoints callback:
+07/29/15 21:47:13:877 | [INFO] | 50596 | ADCS | VulcanWrapper | VulcanInterface |  | VulcanWrapper | 230777 | Received RefreshEndPoints callback:
+07/29/15 21:47:13:881 | [WARN] | 50596 | ADCS | FileAppsUI | FilesAppUIContainerMessageProcessor |  | FileAppsUI | 230725 | Ignoring sync status message recieved when user is not signed in or coresynclaunch or panel frozen not recieved: <?xml version="1.0" encoding="utf-8"?>
+<response><status>success</status><type>accc.files.SyncStatusPush</type><requestid>7071fd58-8474-4721-9862-a82965cf7097</requestid><sync><label>-</label><status>11</status><stringstatus>CoreSyncStateSyncDisabled</stringstatus></sync><context/><title><key/><translatable>1</translatable></title><message><label/><translatable>0</translatable></message></response>
+07/29/15 21:47:13:881 | [INFO] | 50596 | ADCS | c3containerBL | CoreSyncHandler |  | c3containerBL | 230723 | handleCoreSyncStartedUp
+07/29/15 21:47:13:884 | [INFO] | 50596 | ADCS | Core | CoreCommandHandler |  | Core | 230725 | HandleMessage: Message is not defined/implemented in core: coreSyncLaunched. Broadcasting to core extensions
+07/29/15 21:47:13:884 | [WARN] | 50596 | ADCS | Core | ExternalGateway |  | Core | 230726 | Message 'coreSyncLaunched': Target applet 'AssetsPanel_UI' is not loaded for instance 'D60FD9D9-1FCB-4F20-9389-DB8C7E05F7E1'
+07/29/15 21:47:13:886 | [INFO] | 50596 | ADCS | FontsAppBL | FONTS_PANEL |  | FontsAppBL | 230725 | Inside coreSyncLaunched
+07/29/15 21:47:13:886 | [INFO] | 50596 | ADCS | FontsAppBL | FONTS_PANEL |  | FontsAppBL | 230725 | Inside handleOfflineMode
+07/29/15 21:47:13:886 | [INFO] | 50596 | ADCS | FontsAppBL | FONTS_PANEL |  | FontsAppBL | 230725 | GetPrefsData: Setting sync on as no user pref found
+07/29/15 21:47:13:888 | [INFO] | 50596 | ADCS | FontsAppBL | FONTS_PANEL |  | FontsAppBL | 230725 | handleOfflineMode - Sync On was found to be true..setting syncOn state
+07/29/15 21:47:13:888 | [INFO] | 50596 | ADCS | FontsAppBL | FONTS_PANEL |  | FontsAppBL | 230725 | Send Update Preferences to LiveType: ON
+07/29/15 21:47:13:890 | [INFO] | 50596 | ADCS | FontsAppBL | FONTS_PANEL |  | FontsAppBL | 230725 | Handling updateFontsStateBasedOnPref
+07/29/15 21:47:13:890 | [INFO] | 50596 | ADCS | FontsAppBL | FONTS_PANEL |  | FontsAppBL | 230725 | Returning from updateFontsStateBasedOnPref
+07/29/15 21:47:13:892 | [INFO] | 50596 | ADCS | FontsAppBL | FONTS_PANEL |  | FontsAppBL | 230725 | Handling UpdatePreferencesResponse from Livetype
+07/29/15 21:47:13:892 | [INFO] | 50596 | ADCS | FontsAppBL | FONTS_PANEL |  | FontsAppBL | 230725 | Ignoring UpdatePreferencesResponse from Livetype for OfflineMode
+07/29/15 21:47:13:898 | [INFO] | 50596 | ADCS | c3containerBL | IMSLibHelper |  | c3containerBL | 230710 | Done opening IMSSession, session key - E7808963-B4B7-41A3-B2BF-928FE62E5F0E
+07/29/15 21:47:13:898 | [INFO] | 50596 | ADCS | c3containerBL | IMSLibHelper |  | c3containerBL | 230710 | Invoking Register Client ID for Group
+07/29/15 21:47:13:904 | [INFO] | 50596 | ADCS | c3containerBL | IMSLibHelper |  | c3containerBL | 230710 | Fetching default user profile for requested ClientID...
+07/29/15 21:47:13:906 | [INFO] | 50596 | ADCS | c3containerBL | UserProfileData |  | c3containerBL | 230710 | Set Profile Data...
+07/29/15 21:47:13:908 | [INFO] | 50596 | ADCS | c3containerBL | IMSLibHelper |  | c3containerBL | 230710 | Retrieved default user profile successfully
+07/29/15 21:47:13:908 | [ERROR] | 50596 | ADCS | c3containerBL | IMSLibHelper |  | c3containerBL | 230710 | Empty Person GUID found!
+07/29/15 21:47:13:908 | [INFO] | 50596 | ADCS | c3containerBL | SignInStateMachine |  | c3containerBL | 230710 | changeState ~> 1 - 1 - 5
+07/29/15 21:47:13:908 | [INFO] | 50596 | ADCS | c3containerBL | SignInStateMachine |  | c3containerBL | 230710 | IMS Loading starting timer
+07/29/15 21:47:13:911 | [WARN] | 33527 | ACCC | Core | ExternalGateway |  | Core | 231121 | There is no entry found for the request Id - 81764FF1-4856-460D-87D1-182EC9ED780A
+07/29/15 21:47:13:913 | [INFO] | 33527 | ACCC | c3containerUI | UIManager |  | c3containerUI | 229750 | CreateSignInView
+07/29/15 21:47:13:919 | [INFO] | 33527 | ACCC | c3containerUI | UIManager |  | c3containerUI | 229750 | SignIn View Created
+07/29/15 21:47:13:992 | [INFO] | 50596 | ADCS | c3containerBL | CoreSyncHandler |  | c3containerBL | 230725 | handleSignInForCoreSyncOnPingResponse >> coreSyncStartedUp => 1
+07/29/15 21:47:14:408 | [INFO] | 33527 | ACCC | c3containerUI | MessageHandler |  | c3containerUI | 229750 | onDOMReady Received
+07/29/15 21:47:14:438 | [INFO] | 33527 | ACCC | c3containerUI | MessageHandler |  | c3containerUI | 229880 | Inside ActiveContainer
+07/29/15 21:47:15:349 | [INFO] | 50596 | ADCS | ProductsAppsBL | IconsRelatedCommand |  | ProductsAppsBL | 230929 | case ICONS_PREFETCH_RESULT Going to Parse now in Separate thread
+07/29/15 21:47:16:877 | [INFO] | 50596 | ADCS | c3containerBL | SignInStateMachine |  | c3containerBL | 230724 | changeState ~> 2 - 1 - 5
+07/29/15 21:47:16:879 | [WARN] | 33527 | ACCC | Core | ExternalGateway |  | Core | 231492 | There is no entry found for the request Id - 63E9169A-1667-4E59-A9BA-691F0C68602A
+07/29/15 21:47:16:892 | [INFO] | 50596 | ADCS | c3containerBL | SignInStateMachine |  | c3containerBL | 230724 | changeState ~> 3 - 1 - 5
+07/29/15 21:47:16:894 | [INFO] | 33527 | ACCC | c3containerUI | MessageHandler |  | c3containerUI | 229881 | Inside ActiveContainer
+07/29/15 21:47:16:901 | [INFO] | 33527 | ACCC | LocalizationManager | LocalizationManager |  | LocalizationManager | 229750 | Dictionary Path: /Applications/Utilities/Adobe Creative Cloud/ACC/resource/Dictionary/en_US/stringTable.zdct
+07/29/15 21:47:16:906 | [INFO] | 33527 | ACCC | LocalizationManager | LocalizationManager |  | LocalizationManager | 229750 | Dictionary reading successful.
+07/29/15 21:47:17:054 | [INFO] | 33527 | ACCC | c3containerUI | MessageHandler |  | c3containerUI | 229881 | Inside ActiveContainer
+07/29/15 21:47:17:389 | [INFO] | 50596 | ADCS | ProductsAppsBL | IconsRelatedCommand |  | ProductsAppsBL | 230929 | Setting hasIconsPrefetched = true sending notification for kICONS_PREFETCHED_COMMAND

@@ -1,0 +1,1 @@
+osascript -e 'tell app "System Events" to display dialog "Welcome!\n\nYou are in Guest mode, meaning anything you do locally (not on the internet) will be erased after you log out."'

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chrome</key>
+	<dict>
+		<key>DISPLAY_NAME</key>
+		<string>Google Chrome</string>
+		<key>LAST_USED</key>
+		<date>2015-06-12T05:27:46Z</date>
+		<key>URL</key>
+		<string>file:///Applications/Google%20Chrome.app/</string>
+	</dict>
+	<key>i</key>
+	<dict>
+		<key>DISPLAY_NAME</key>
+		<string>iGlasses</string>
+		<key>LAST_USED</key>
+		<date>2015-06-12T10:33:20Z</date>
+		<key>URL</key>
+		<string>file:///Applications/iGlasses.app/</string>
+	</dict>
+	<key>ig</key>
+	<dict>
+		<key>DISPLAY_NAME</key>
+		<string>iGlasses</string>
+		<key>LAST_USED</key>
+		<date>2015-06-12T10:33:33Z</date>
+		<key>URL</key>
+		<string>file:///Applications/iGlasses.app/</string>
+	</dict>
+	<key>sys</key>
+	<dict>
+		<key>DISPLAY_NAME</key>
+		<string>System Preferences</string>
+		<key>LAST_USED</key>
+		<date>2015-06-12T10:31:58Z</date>
+		<key>URL</key>
+		<string>file:///Applications/System%20Preferences.app/</string>
+	</dict>
+</dict>
+</plist>
