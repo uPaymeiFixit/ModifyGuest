@@ -1,0 +1,63 @@
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: The current SMS database is v8010.  The current schema version is v9005. Can be migrated: YES
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Beginning migration.  The SMS db is currently at v8010, upgrading to v9005.
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Integrity checked success
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Initial Integrity checked success
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Dropped trigger: clean_orphaned_messages
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Dropped trigger: clean_orphaned_attachments
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Dropped trigger: clean_orphaned_handlesAFTER
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Dropped trigger: clean_orphaned_handles2
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Dropped trigger: set_message_has_attachments
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Dropped trigger: clear_message_has_attachments
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Dropped trigger: update_message_roomname_cache_insert
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Dropped trigger: update_message_roomname_cache_delete
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Dropped trigger: delete_attachment_files
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Dropped trigger: before_delete_attachment_files
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Dropped unknown index: chat_idx_identifier
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Dropped unknown index: chat_idx_room_name
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Migrated from 8010 to 8011 ok in 0.002122 seconds
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Migrated from 8011 to 8012 ok in 0.000152 seconds
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Adding column is_filtered to chat succeeded: YES
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Migrated from 8012 to 8200 ok in 0.000478 seconds
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Migrated from 8200 to 9000 ok in 0.000134 seconds
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Migrated from 9000 to 9001 ok in 0.000125 seconds
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Adding column successful_query to chat succeeded: YES
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Migrated from 9001 to 9002 ok in 0.000366 seconds
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Migrated from 9002 to 9003 ok in 0.000132 seconds
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Migrated from 9003 to 9004 ok in 0.000160 seconds
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Migrated from 9004 to 9005 ok in 0.000132 seconds
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Created table if needed ok: deleted_messages
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Created table if needed ok: chat_handle_join
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Created table if needed ok: chat_message_join
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Created table if needed ok: message_attachment_join
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Created table if needed ok: handle
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Created index ok: chat_handle_join_idx_handle_id
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Created index ok: message_idx_is_read
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Created index ok: chat_message_join_idx_chat_id
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Created index ok: chat_idx_is_archived
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Created index ok: chat_idx_chat_room_name_service_name
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Created index ok: message_idx_handle_id
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Created index ok: chat_message_join_idx_message_id
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Created index ok: chat_idx_chat_identifier
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Created index ok: chat_message_join_idx_message_id_only
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Created index ok: message_idx_failed
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Created index ok: chat_idx_chat_identifier_service_name
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Created index ok: message_idx_handle
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Created index ok: message_attachment_join_idx_attachment_id
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Created index ok: message_idx_date
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Created index ok: message_idx_expire_state
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Created index ok: message_idx_other_handle
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Created index ok: message_attachment_join_idx_message_id
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Created index ok: message_idx_was_downgraded
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Created trigger ok: after_insert_on_message_attachment_join
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Created trigger ok: after_delete_on_chat_message_join
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Created trigger ok: after_delete_on_attachment
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Created trigger ok: after_delete_on_message_attachment_join
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Created trigger ok: add_to_deleted_messages
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Created trigger ok: after_delete_on_chat
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Created trigger ok: before_delete_on_attachment
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Created trigger ok: after_delete_on_chat_handle_join
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Created trigger ok: after_delete_on_message
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Created trigger ok: after_insert_on_chat_message_join 
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Integrity checked success
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Message database migration passed post migrate integrity check
+2016-06-20 01:23:54 -0700 IMDPersistenceAgent[93143]: Message's DB migration took 0.018501 seconds.

@@ -1,0 +1,445 @@
+06/20/16 01:24:00:144 | [INFO] | 82884 | ACCC | C3App | ApplicationContext |  | C3App | 864458 | ************************* START Adobe Creative Cloud. Version: 3.5.1.209 *************************
+06/20/16 01:24:00:151 | [INFO] | 82884 | ACCC | Core | AsyncMessageProcessor |  | Core | 864458 | AsyncMessageProcessorMac initialized...
+06/20/16 01:24:00:151 | [INFO] | 82884 | ACCC | Core | AsyncMessageProcessor |  | Core | 864458 | AsyncMessageProcessorMac Message Queue initialized...
+06/20/16 01:24:00:156 | [INFO] | 82884 | ACCC | Core | AppletManager |  | Core | 864458 | Loading PIM library from path: /Library/Application Support/Adobe/Adobe Desktop Common/Core/AdobePIM.dylib
+06/20/16 01:24:00:158 | [INFO] | 82884 | ACCC | Core | AppletManager |  | Core | 864458 | Querying applet database
+06/20/16 01:24:00:173 | [INFO] | 82884 | ACCC | Core | AppletManager |  | Core | 864458 | Registering Applets...
+06/20/16 01:24:00:491 | [INFO] | 82884 | ACCC | Core | AppletManager |  | Core | 864458 | Registering Applets...
+06/20/16 01:24:00:502 | [INFO] | 82884 | ACCC | Core | AppletManager |  | Core | 864458 | Identifying applet relationships...
+06/20/16 01:24:00:517 | [INFO] | 82884 | ACCC | Core | AppletManager |  | Core | 864458 | Identifying applet relationships...
+06/20/16 01:24:00:527 | [INFO] | 82884 | ACCC | Core | Applet |  | Core | 864458 | Loading Applet - CmdCntr_CoreExt for InstanceID - CoreInstance
+06/20/16 01:24:01:785 | [INFO] | 82884 | ACCC | VulcanWrapper | VulcanInterface |  | VulcanWrapper | 864661 | Received RefreshEndPoints callback:
+06/20/16 01:24:01:786 | [INFO] | 82884 | ACCC | VulcanWrapper | VulcanInterface |  | VulcanWrapper | 864661 | Received RefreshEndPoints callback:
+06/20/16 01:24:01:796 | [INFO] | 82884 | ACCC | Core | Applet |  | Core | 864458 | Loading Applet - C3Prefs_CoreExt for InstanceID - CoreInstance
+06/20/16 01:24:01:801 | [INFO] | 82884 | ACCC | C3PrefsCoreExt |  |  | C3PrefsCoreExt | 864458 | Initialize called: <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CommandLineArguments ApplicationID="ACCC" IsServiceInstance="0">
+    <appletID>C3Prefs_CoreExt</appletID>
+    <appletVersion>1.0</appletVersion>
+    <appletInstanceID>CoreInstance</appletInstanceID>
+    <appletDIR>/Library/Application Support/Adobe/Adobe Desktop Common/CoreExt</appletDIR>
+</CommandLineArguments>
+06/20/16 01:24:01:802 | [INFO] | 82884 | ACCC | Core | Applet |  | Core | 864458 | Loading Applet - LocManager_CoreExt for InstanceID - CoreInstance
+06/20/16 01:24:01:805 | [INFO] | 82884 | ACCC | LocalizationManager |  |  | LocalizationManager | 864458 | LocalizationManager Initialized
+06/20/16 01:24:01:806 | [INFO] | 82884 | ACCC | Core | Applet |  | Core | 864458 | Loading Applet - Analytics_CoreExt for InstanceID - CoreInstance
+06/20/16 01:24:01:812 | [INFO] | 82884 | ACCC | ACE | ACE |  | ACE | 864458 | ACE Initialized
+06/20/16 01:24:01:814 | [INFO] | 82884 | ACCC | C3PrefsCoreExt | C3PrefsMessageProcessor |  | C3PrefsCoreExt | 864458 | Inside GetLocalConfigXmlPath
+06/20/16 01:24:01:815 | [WARN] | 82884 | ACCC | OOBEUtils | XMLParser |  | OOBEUtils | 864458 | ERROR invalid xml file path. Could not read data from path /Applications/Utilities/Adobe Creative Cloud//C3Config.sig
+06/20/16 01:24:01:820 | [WARN] | 82884 | ACCC | OOBEUtils | XMLParser |  | OOBEUtils | 864458 | Error Description Error Domain=NSCocoaErrorDomain Code=260 "The file “C3Config.sig” couldn’t be opened because there is no such file." UserInfo={NSFilePath=/Applications/Utilities/Adobe Creative Cloud//C3Config.sig, NSUnderlyingError=0x7ae3deb0 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+06/20/16 01:24:01:820 | [WARN] | 82884 | ACCC | C3PrefsCoreExt |  |  | C3PrefsCoreExt | 864458 | Could not initialize C3Config sig file as XML data
+06/20/16 01:24:01:820 | [INFO] | 82884 | ACCC | ACE |  |  | ACE | 864458 | ETS environment is: 7
+06/20/16 01:24:01:823 | [INFO] | 82884 | ACCC | ACE |  |  | ACE | 864458 | OS Bitness is: 64
+06/20/16 01:24:01:823 | [INFO] | 82884 | ACCC | ACE |  |  | ACE | 864458 | osVersion Received is  10.11.3
+06/20/16 01:24:01:825 | [INFO] | 82884 | ACCC | OOBEUtils | CommandLineParser |  | OOBEUtils | 864458 | Parsing the command line provided. Number of command line arguments is 3
+06/20/16 01:24:01:946 | [INFO] | 82884 | ACCC | C3App | LocalizationManager |  | C3App | 864458 | Dictionary Path: /Applications/Utilities/Adobe Creative Cloud/ACC/Creative Cloud.app/Contents/Resources/Dictionary/en_US/stringTable.zdct
+06/20/16 01:24:01:947 | [INFO] | 82884 | ACCC | C3App | LocalizationManager |  | C3App | 864458 | Dictionary reading successful.
+06/20/16 01:24:02:318 | [INFO] | 82884 | ACCC | Core | Applet |  | Core | 864458 | Loading Applet - HEX_UIX for InstanceID - UIXInstance
+06/20/16 01:24:02:406 | [INFO] | 82884 | ACCC | HEX |  |  | HEX | 864458 | Initialize called: <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CommandLineArguments ApplicationID="" IsServiceInstance="">
+    <appletID>HEX_UIX</appletID>
+    <appletVersion>1.0</appletVersion>
+    <appletInstanceID>UIXInstance</appletInstanceID>
+    <appletDIR>/Library/Application Support/Adobe/Adobe Desktop Common/HEX</appletDIR>
+</CommandLineArguments>
+06/20/16 01:24:02:466 | [INFO] | 82884 | ACCC | HEX | HEX |  | HEX | 864458 | HEX Initialized with View ID as 0x7af5f680
+06/20/16 01:24:02:466 | [INFO] | 82884 | ACCC | Core | Applet |  | Core | 864458 | Loading Applet - C3Container_UINative for InstanceID - BC9DEBF9-4FF2-47E0-BA45-B805A611971C
+06/20/16 01:24:02:659 | [INFO] | 82884 | ACCC | c3containerUI | MessageHandler |  | c3containerUI | 864458 | 
+06/20/16 01:24:04:192 | [INFO] | 82884 | ACCC | c3containerUI | MessageHandler |  | c3containerUI | 864458 | LoadTimeLogs : Inside PreACCCStartedUp, Native Window Created. Creating View now...
+06/20/16 01:24:04:198 | [INFO] | 82884 | ACCC | c3containerUI | UIManager |  | c3containerUI | 864458 | LoadTimeLogsCreateView
+06/20/16 01:24:04:917 | [INFO] | 82884 | ACCC | c3containerUI | UIManager |  | c3containerUI | 864458 | Load UICore & UIMain
+06/20/16 01:24:04:918 | [INFO] | 82884 | ACCC | HEX | HEX |  | HEX | 864458 | Inside LoadBindings
+06/20/16 01:24:04:919 | [INFO] | 82884 | ACCC | HEX | HEX |  | HEX | 864458 | Inside LoadBindings
+06/20/16 01:24:04:921 | [INFO] | 82884 | ACCC | HEX | HEX |  | HEX | 864458 | Inside LoadBindings
+06/20/16 01:24:04:932 | [INFO] | 82884 | ACCC | HEX | HEX |  | HEX | 864458 | Inside LoadBindings
+06/20/16 01:24:04:935 | [INFO] | 82884 | ACCC | HEX | HEX |  | HEX | 864458 | Inside loadEventBindings
+06/20/16 01:24:04:937 | [INFO] | 82884 | ACCC | HEX | HEX |  | HEX | 864458 | Return from loadEventBindings: 1
+06/20/16 01:24:04:937 | [INFO] | 82884 | ACCC | HEX | HEX |  | HEX | 864458 | Inside loadPropertyBindings
+06/20/16 01:24:04:938 | [INFO] | 82884 | ACCC | HEX | HEX |  | HEX | 864458 | Inside registerPropertyBindingsWithCore
+06/20/16 01:24:04:939 | [WARN] | 82884 | ACCC | Core | CoreCommandHandler |  | Core | 864458 | No property specified in RegisterProperties xml data
+06/20/16 01:24:04:939 | [INFO] | 82884 | ACCC | HEX | HEX |  | HEX | 864458 | Return from registerPropertyBindingsWithCore
+06/20/16 01:24:04:939 | [INFO] | 82884 | ACCC | HEX | HEX |  | HEX | 864458 | Return from loadPropertyBindings: 1
+06/20/16 01:24:04:942 | [INFO] | 82884 | ACCC | HEX | HEX |  | HEX | 864458 | Inside LoadBindings
+06/20/16 01:24:04:944 | [WARN] | 82884 | ACCC | OOBEUtils | XMLParser |  | OOBEUtils | 864458 | Error Description : XML is already initialized, tring to initilize again.
+06/20/16 01:24:04:949 | [INFO] | 82884 | ACCC | HEX | HEX |  | HEX | 864458 | Inside LoadBindings
+06/20/16 01:24:04:951 | [INFO] | 82884 | ACCC | HEX | HEX |  | HEX | 864458 | Inside LoadBindings
+06/20/16 01:24:04:952 | [INFO] | 82884 | ACCC | HEX | HEX |  | HEX | 864458 | Inside loadEventBindings
+06/20/16 01:24:04:954 | [INFO] | 82884 | ACCC | HEX | HEX |  | HEX | 864458 | Return from loadEventBindings: 1
+06/20/16 01:24:04:955 | [INFO] | 82884 | ACCC | HEX | HEX |  | HEX | 864458 | Inside loadPropertyBindings
+06/20/16 01:24:04:956 | [INFO] | 82884 | ACCC | HEX | HEX |  | HEX | 864458 | propertyBindings Node not present in XML
+06/20/16 01:24:04:956 | [INFO] | 82884 | ACCC | HEX | HEX |  | HEX | 864458 | Inside registerPropertyBindingsWithCore
+06/20/16 01:24:04:957 | [WARN] | 82884 | ACCC | Core | CoreCommandHandler |  | Core | 864458 | No property specified in RegisterProperties xml data
+06/20/16 01:24:04:957 | [INFO] | 82884 | ACCC | HEX | HEX |  | HEX | 864458 | Return from registerPropertyBindingsWithCore
+06/20/16 01:24:04:957 | [INFO] | 82884 | ACCC | HEX | HEX |  | HEX | 864458 | Return from loadPropertyBindings: 0
+06/20/16 01:24:04:958 | [INFO] | 82884 | ACCC | HEX | HEX |  | HEX | 864458 | Inside LoadBindings
+06/20/16 01:24:04:967 | [INFO] | 82884 | ACCC | HEX | HEX |  | HEX | 864458 | Inside LoadBindings
+06/20/16 01:24:05:099 | [INFO] | 82884 | ACCC | HEX | HEX |  | HEX | 864458 | Inside LoadBindings
+06/20/16 01:24:05:225 | [INFO] | 82884 | ACCC | LocalizationManager |  |  | LocalizationManager | 864458 | Inside GetLocaleForApplet
+06/20/16 01:24:05:232 | [INFO] | 82884 | ACCC | HEX | HEX |  | HEX | 864458 | attachParentWindowEx successful with Viewptr as 0x7b17d430
+06/20/16 01:24:05:232 | [INFO] | 82884 | ACCC | HEX | HEX |  | HEX | 864458 | Load URL Successful file:////Applications/Utilities/Adobe Creative Cloud/ACC/resource/UICore/host.html
+06/20/16 01:24:05:235 | [INFO] | 82884 | ACCC | c3containerUI | UIManager |  | c3containerUI | 864458 | View Created
+06/20/16 01:24:05:238 | [ERROR] | 82884 | ACCC | HEX | HEX |  | HEX | 864458 | Inside ShowView: stringValueForXQuery failed for //guid or guid is empty. inXMLData = <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xmldata>
+    <guid></guid>
+    <isvisible>0</isvisible>
+</xmldata>
+06/20/16 01:24:05:239 | [ERROR] | 82884 | ACCC | HEX | HEX |  | HEX | 864458 | Inside HideView: stringValueForXQuery failed for //guid or guid is empty. inXMLData = <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xmldata>
+    <guid></guid>
+    <isvisible>0</isvisible>
+</xmldata>
+06/20/16 01:24:05:241 | [INFO] | 82884 | ACCC | c3containerUI | MessageHandler |  | c3containerUI | 864458 | LoadTimeLogs : Inside PreACCCStartedUp, Create View Done...
+06/20/16 01:24:05:242 | [INFO] | 82884 | ACCC | c3containerUI | MessageHandler |  | c3containerUI | 865177 | LoadTimeLogs: Inside threadWaitingForADSAck...
+06/20/16 01:24:05:245 | [INFO] | 82884 | ACCC | c3containerUI | MessageHandler |  | c3containerUI | 864458 | LoadTimeLogs : PreACCCStartedUp done...
+06/20/16 01:24:05:248 | [INFO] | 82884 | ACCC | c3containerUI | UserProfileData |  | c3containerUI | 864614 | Get Profile Data...
+06/20/16 01:24:05:248 | [WARN] | 82884 | ACCC | c3containerUI | UserProfileData |  | c3containerUI | 864614 | User Profile Data not present!
+06/20/16 01:24:05:249 | [INFO] |  | ACCC | Analytics | ETSFramework |  |  | 864614 | Event Guid generated is: '8cb7754c-87df-4b5d-b3de-c2025fef66c3'
+06/20/16 01:24:05:249 | [INFO] |  | ACCC | Analytics | ETSFramework |  |  | 864763 | Event with guid '8cb7754c-87df-4b5d-b3de-c2025fef66c3' is being sent
+06/20/16 01:24:05:362 | [INFO] | 82884 | ACCC | c3containerUI | ApplicationContext |  | c3containerUI | 865178 | 
+06/20/16 01:24:05:365 | [INFO] | 82884 | ACCC | VulcanWrapper | VulcanInterface |  | VulcanWrapper | 864661 | Received RefreshEndPoints callback:
+06/20/16 01:24:05:375 | [WARN] | 82884 | ACCC | VulcanWrapper | VulcanInterface |  | VulcanWrapper | 864614 | Could not get ADCS endpoint, ignoring message !
+06/20/16 01:24:05:779 | [INFO] | 30573 | ADCS | C3App | ApplicationContext |  | C3App | 865180 | ************************* START Adobe Creative Cloud. Version: 3.5.1.209 *************************
+06/20/16 01:24:05:782 | [INFO] | 30573 | ADCS | Core | AsyncMessageProcessor |  | Core | 865180 | AsyncMessageProcessorMac initialized...
+06/20/16 01:24:05:782 | [INFO] | 30573 | ADCS | Core | AsyncMessageProcessor |  | Core | 865180 | AsyncMessageProcessorMac Message Queue initialized...
+06/20/16 01:24:05:785 | [INFO] | 30573 | ADCS | Core | AppletManager |  | Core | 865180 | Loading PIM library from path: /Library/Application Support/Adobe/Adobe Desktop Common/Core/AdobePIM.dylib
+06/20/16 01:24:05:788 | [INFO] | 30573 | ADCS | Core | AppletManager |  | Core | 865180 | Querying applet database
+06/20/16 01:24:05:794 | [INFO] | 30573 | ADCS | Core | AppletManager |  | Core | 865180 | Registering Applets...
+06/20/16 01:24:05:802 | [INFO] | 30573 | ADCS | Core | AppletManager |  | Core | 865180 | Registering Applets...
+06/20/16 01:24:05:859 | [INFO] | 30573 | ADCS | Core | AppletManager |  | Core | 865180 | Registering Applets...
+06/20/16 01:24:05:874 | [INFO] | 30573 | ADCS | Core | AppletManager |  | Core | 865180 | Identifying applet relationships...
+06/20/16 01:24:05:875 | [INFO] | 30573 | ADCS | Core | AppletManager |  | Core | 865180 | Applet relationship information not present!
+06/20/16 01:24:05:875 | [INFO] | 30573 | ADCS | Core | AppletManager |  | Core | 865180 | Identifying applet relationships...
+06/20/16 01:24:05:878 | [INFO] | 30573 | ADCS | Core | AppletManager |  | Core | 865180 | Identifying applet relationships...
+06/20/16 01:24:05:893 | [INFO] | 30573 | ADCS | Core | AppletManager |  | Core | 865180 | CoreExtensions tag missing, loading all the available coreExtentions
+06/20/16 01:24:05:893 | [INFO] | 30573 | ADCS | Core | Applet |  | Core | 865180 | Loading Applet - CmdCntr_CoreExt for InstanceID - CoreInstance
+06/20/16 01:24:06:101 | [INFO] | 30573 | ADCS | VulcanWrapper | VulcanInterface |  | VulcanWrapper | 865259 | Received RefreshEndPoints callback:
+06/20/16 01:24:06:101 | [INFO] | 82884 | ACCC | VulcanWrapper | VulcanInterface |  | VulcanWrapper | 864661 | Received RefreshEndPoints callback:
+06/20/16 01:24:06:102 | [INFO] | 30573 | ADCS | VulcanWrapper | VulcanInterface |  | VulcanWrapper | 865259 | Received RefreshEndPoints callback:
+06/20/16 01:24:06:112 | [INFO] | 30573 | ADCS | Core | Applet |  | Core | 865180 | Loading Applet - C3Prefs_CoreExt for InstanceID - CoreInstance
+06/20/16 01:24:06:116 | [INFO] | 30573 | ADCS | C3PrefsCoreExt |  |  | C3PrefsCoreExt | 865180 | Initialize called: <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CommandLineArguments ApplicationID="ADCS" IsServiceInstance="1">
+    <appletID>C3Prefs_CoreExt</appletID>
+    <appletVersion>1.0</appletVersion>
+    <appletInstanceID>CoreInstance</appletInstanceID>
+    <appletDIR>/Library/Application Support/Adobe/Adobe Desktop Common/CoreExt</appletDIR>
+</CommandLineArguments>
+06/20/16 01:24:06:117 | [INFO] | 30573 | ADCS | Core | Applet |  | Core | 865180 | Loading Applet - LocManager_CoreExt for InstanceID - CoreInstance
+06/20/16 01:24:06:121 | [INFO] | 30573 | ADCS | LocalizationManager |  |  | LocalizationManager | 865180 | LocalizationManager Initialized
+06/20/16 01:24:06:121 | [INFO] | 30573 | ADCS | Core | Applet |  | Core | 865180 | Loading Applet - Analytics_CoreExt for InstanceID - CoreInstance
+06/20/16 01:24:06:124 | [INFO] | 30573 | ADCS | ACE | ACE |  | ACE | 865180 | ACE Initialized
+06/20/16 01:24:06:125 | [INFO] | 30573 | ADCS | C3PrefsCoreExt | C3PrefsMessageProcessor |  | C3PrefsCoreExt | 865180 | Inside GetLocalConfigXmlPath
+06/20/16 01:24:06:126 | [WARN] | 30573 | ADCS | OOBEUtils | XMLParser |  | OOBEUtils | 865180 | ERROR invalid xml file path. Could not read data from path /Applications/Utilities/Adobe Creative Cloud//C3Config.sig
+06/20/16 01:24:06:128 | [WARN] | 30573 | ADCS | OOBEUtils | XMLParser |  | OOBEUtils | 865180 | Error Description Error Domain=NSCocoaErrorDomain Code=260 "The file “C3Config.sig” couldn’t be opened because there is no such file." UserInfo={NSFilePath=/Applications/Utilities/Adobe Creative Cloud//C3Config.sig, NSUnderlyingError=0x79e60960 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+06/20/16 01:24:06:128 | [WARN] | 30573 | ADCS | C3PrefsCoreExt |  |  | C3PrefsCoreExt | 865180 | Could not initialize C3Config sig file as XML data
+06/20/16 01:24:06:128 | [INFO] | 30573 | ADCS | ACE |  |  | ACE | 865180 | ETS environment is: 7
+06/20/16 01:24:06:131 | [INFO] | 30573 | ADCS | ACE |  |  | ACE | 865180 | OS Bitness is: 64
+06/20/16 01:24:06:131 | [INFO] | 30573 | ADCS | ACE |  |  | ACE | 865180 | osVersion Received is  10.11.3
+06/20/16 01:24:06:132 | [INFO] | 30573 | ADCS | Core | Applet |  | Core | 865180 | Loading Applet - ElevationManager_CoreExt for InstanceID - CoreInstance
+06/20/16 01:24:06:214 | [INFO] | 30573 | ADCS | ElevationManager |  |  | ElevationManager | 865180 | Initialize called: <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CommandLineArguments ApplicationID="ADCS" IsServiceInstance="1">
+    <appletID>ElevationManager_CoreExt</appletID>
+    <appletVersion>1.0</appletVersion>
+    <appletInstanceID>CoreInstance</appletInstanceID>
+    <appletDIR>/Library/Application Support/Adobe/Adobe Desktop Common/ElevationManager</appletDIR>
+</CommandLineArguments>
+06/20/16 01:24:06:223 | [INFO] | 30573 | ADCS | ElevationManager | ElevationManagerIPC |  | ElevationManager | 865266 | Initializing Connection Channel with Service with pipename: F7C71944B49B446081C0603DE90E4855
+06/20/16 01:24:06:234 | [INFO] | 30573 | ADCS | LocalizationManager | LocalizationManager |  | LocalizationManager | 865180 | Dictionary Path: /Library/Application Support/Adobe/Adobe Desktop Common/ElevationManager/resource/Dictionary/en_US/stringTable.zdct
+06/20/16 01:24:06:235 | [INFO] | 30573 | ADCS | LocalizationManager | LocalizationManager |  | LocalizationManager | 865180 | Dictionary reading successful.
+06/20/16 01:24:06:235 | [INFO] | 30573 | ADCS | Core | Applet |  | Core | 865180 | Loading Applet - ANSClient_CoreExt for InstanceID - CoreInstance
+06/20/16 01:24:06:324 | [INFO] | 30573 | ADCS | ElevationManager | ElevationManagerIPC |  | ElevationManager | 865266 | Success: Initializing Connection Channel with Service with pipename: F7C71944B49B446081C0603DE90E4855
+06/20/16 01:24:06:324 | [INFO] | 30573 | ADCS | ElevationManager | ElevationManagerIPC |  | ElevationManager | 865266 | createConnectionThread Entered
+06/20/16 01:24:06:324 | [INFO] | 30573 | ADCS | ElevationManager | ElevationManagerIPC |  | ElevationManager | 865266 | Successfully created connection thread
+06/20/16 01:24:06:324 | [INFO] | 30573 | ADCS | ElevationManager | ElevationManagerIPC |  | ElevationManager | 865269 | Inside listenConnectionPackets in Elevation Manager doing CBReadPacket on the Connection thread...
+06/20/16 01:24:06:324 | [INFO] | 30573 | ADCS | ElevationManager | ElevationManagerIPC |  | ElevationManager | 865269 | read packet result 1.. Waiting on m_EventHandleClientRequest
+06/20/16 01:24:06:330 | [INFO] | 30573 | ADCS | ANSClient |  |  | ANSClient | 865180 | Initialize called: <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CommandLineArguments ApplicationID="ADCS" IsServiceInstance="1">
+    <appletID>ANSClient_CoreExt</appletID>
+    <appletVersion>1.0</appletVersion>
+    <appletInstanceID>CoreInstance</appletInstanceID>
+    <appletDIR>/Library/Application Support/Adobe/Adobe Desktop Common/Notifications</appletDIR>
+</CommandLineArguments>
+06/20/16 01:24:06:331 | [INFO] | 30573 | ADCS | ANSClient | NEGlobalData |  | ANSClient | 865180 | Build Version - 3.5.0.205
+06/20/16 01:24:06:336 | [INFO] | 30573 | ADCS | Core | Applet |  | Core | 865180 | Loading Applet - NotificationManager_CoreExt for InstanceID - CoreInstance
+06/20/16 01:24:06:386 | [INFO] | 30573 | ADCS | NotificationManager |  |  | NotificationManager | 865180 | Initialize called: <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CommandLineArguments ApplicationID="ADCS" IsServiceInstance="1">
+    <appletID>NotificationManager_CoreExt</appletID>
+    <appletVersion>1.0</appletVersion>
+    <appletInstanceID>CoreInstance</appletInstanceID>
+    <appletDIR>/Library/Application Support/Adobe/Adobe Desktop Common/Notifications</appletDIR>
+</CommandLineArguments>
+06/20/16 01:24:06:387 | [INFO] | 30573 | ADCS | C3PrefsCoreExt | C3PrefsMessageProcessor |  | C3PrefsCoreExt | 865180 | Inside GetLocalConfigXmlPath
+06/20/16 01:24:06:387 | [WARN] | 30573 | ADCS | OOBEUtils | XMLParser |  | OOBEUtils | 865180 | ERROR invalid xml file path. Could not read data from path /Applications/Utilities/Adobe Creative Cloud//C3Config.sig
+06/20/16 01:24:06:388 | [WARN] | 30573 | ADCS | OOBEUtils | XMLParser |  | OOBEUtils | 865180 | Error Description Error Domain=NSCocoaErrorDomain Code=260 "The file “C3Config.sig” couldn’t be opened because there is no such file." UserInfo={NSFilePath=/Applications/Utilities/Adobe Creative Cloud//C3Config.sig, NSUnderlyingError=0x79f76e50 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+06/20/16 01:24:06:388 | [WARN] | 30573 | ADCS | C3PrefsCoreExt |  |  | C3PrefsCoreExt | 865180 | Could not initialize C3Config sig file as XML data
+06/20/16 01:24:06:392 | [INFO] | 30573 | ADCS | LocalizationManager | LocalizationManager |  | LocalizationManager | 865180 | Dictionary Path: /Library/Application Support/Adobe/Adobe Desktop Common/Notifications/Resources/NotificationManager/Dictionary/en_US/stringTable.zdct
+06/20/16 01:24:06:392 | [INFO] | 30573 | ADCS | LocalizationManager | LocalizationManager |  | LocalizationManager | 865180 | Dictionary reading successful.
+06/20/16 01:24:06:401 | [WARN] | 30573 | ADCS | Core | ExternalGateway |  | Core | 865180 | Message 'GetApplicationVersion': Target applet not loaded.
+06/20/16 01:24:06:401 | [INFO] | 30573 | ADCS | Core | Applet |  | Core | 865180 | Loading Applet - TrayNotificationManager_CoreExt for InstanceID - CoreInstance
+06/20/16 01:24:06:434 | [INFO] | 30573 | ADCS | NotificationManager |  |  | NotificationManager | 865180 | Initialize called: <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CommandLineArguments ApplicationID="ADCS" IsServiceInstance="1">
+    <appletID>TrayNotificationManager_CoreExt</appletID>
+    <appletVersion>1.0</appletVersion>
+    <appletInstanceID>CoreInstance</appletInstanceID>
+    <appletDIR>/Library/Application Support/Adobe/Adobe Desktop Common/Notifications</appletDIR>
+</CommandLineArguments>
+06/20/16 01:24:06:588 | [INFO] | 30573 | ADCS | ElevationManager | ElevationManagerIPC |  | ElevationManager | 865269 | Signalled on  m_EventHandleClientRequest
+06/20/16 01:24:06:588 | [INFO] | 30573 | ADCS | ElevationManager | ElevationManagerIPC |  | ElevationManager | 865269 | Inside listenConnectionPackets in Elevation Manager doing CBReadPacket on the Connection thread...
+06/20/16 01:24:06:588 | [INFO] | 30573 | ADCS | ElevationManager | ElevationManagerIPC |  | ElevationManager | 865269 | Inside Elevation Manager where INIT_COMM is the message received...
+06/20/16 01:24:06:598 | [INFO] | 30573 | ADCS | NotificationManager | TrayNotificationManager |  | NotificationManager | 865180 | TrayNotificationManager Initialized
+06/20/16 01:24:06:599 | [INFO] | 30573 | ADCS | OOBEUtils | CommandLineParser |  | OOBEUtils | 865180 | Parsing the command line provided. Number of command line arguments is 4
+06/20/16 01:24:06:599 | [INFO] | 30573 | ADCS | Core | Applet |  | Core | 865180 | Loading Applet - C3Container_BL for InstanceID - 12D4E07A-A228-4A3B-8E8C-CF61E35FAE28
+06/20/16 01:24:06:730 | [WARN] | 30573 | ADCS | c3containerBL | CCDetectProxyServer |  | c3containerBL | 865180 | ERROR on binding to port : 15292
+06/20/16 01:24:06:730 | [WARN] | 30573 | ADCS | c3containerBL | CCDetectProxyServer |  | c3containerBL | 865180 | Not able to bind on to any available port
+06/20/16 01:24:06:739 | [INFO] | 82884 | ACCC | c3containerUI | MessageHandler |  | c3containerUI | 864614 | LoadTimeLogs: Inside OnACCCStartedUp...
+06/20/16 01:24:06:744 | [WARN] | 30573 | ADCS | Core | ExternalGateway |  | Core | 865302 | There is no entry found for the request Id - 17A50504-308D-4CDE-AF7F-E5819945BB66
+06/20/16 01:24:06:755 | [WARN] | 30573 | ADCS | Core | ExternalGateway |  | Core | 865306 | There is no entry found for the request Id - 7C1EB5E0-2CC2-4531-BB0A-BA54DC1F6438
+06/20/16 01:24:06:764 | [INFO] | 82884 | ACCC | c3containerUI | MessageHandler |  | c3containerUI | 864614 | LoadTimeLogs : Sent Applets for Registration to Container BL. Enabled Pining...
+06/20/16 01:24:06:765 | [INFO] | 82884 | ACCC | c3containerUI | MessageHandler |  | c3containerUI | 864614 | LoadTimeLogs: End OnACCCStartedUp...
+06/20/16 01:24:06:793 | [INFO] | 30573 | ADCS | ElevationManager | ElevationManagerIPC |  | ElevationManager | 865269 | Successfully created communication channel
+06/20/16 01:24:06:793 | [INFO] | 30573 | ADCS | ElevationManager | ElevationManagerIPC |  | ElevationManager | 865269 | Communication Thread created
+06/20/16 01:24:06:793 | [INFO] | 30573 | ADCS | ElevationManager | ElevationManager |  | ElevationManager | 865266 | Successfully created connection channel
+06/20/16 01:24:06:793 | [INFO] | 30573 | ADCS | ElevationManager | ElevationManagerIPC |  | ElevationManager | 865269 | Closing Connection Channel
+06/20/16 01:24:06:977 | [INFO] | 30573 | ADCS | c3containerBL | ContainerBLMessageHandler |  | c3containerBL | 865180 | LoadTimeLogs: Inside BeginWorkflow
+06/20/16 01:24:06:977 | [INFO] | 30573 | ADCS | c3containerBL | ContainerBLMessageHandler |  | c3containerBL | 865180 | LoadTimeLogs: Inside BeginWorkflow Command Line is <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CommandLineArguments relaunch="false">
+    <onOSstartup>true</onOSstartup>
+    <showwindow>false</showwindow>
+    <waitForRegistration>true</waitForRegistration>
+    <instance>service</instance>
+    <appID>ADCS</appID>
+    <appVersion>3.5.1</appVersion>
+</CommandLineArguments>
+06/20/16 01:24:06:978 | [INFO] | 30573 | ADCS | Core | CoreCommandHandler |  | Core | 865217 | HandleMessage: Message is not defined/implemented in core: ProcessCommandLine. Broadcasting to core extensions
+06/20/16 01:24:06:983 | [INFO] | 30573 | ADCS | Core | Applet |  | Core | 865180 | Loading Applet - SignInApp_BL for InstanceID - 12D4E07A-A228-4A3B-8E8C-CF61E35FAE28
+06/20/16 01:24:07:179 | [WARN] | 30573 | ADCS | c3containerBL | ContainerBLMessageHandler |  | c3containerBL | 865217 | GetUserProfileXml: No access token present. User not signed in.
+06/20/16 01:24:07:179 | [INFO] |  | ACCC | Analytics | ETSFramework |  |  | 865217 | Event Guid generated is: '6eb266d3-5102-4772-89ce-b4aa67636310'
+06/20/16 01:24:07:179 | [INFO] |  | ACCC | Analytics | ETSFramework |  |  | 865262 | Event with guid '6eb266d3-5102-4772-89ce-b4aa67636310' is being sent
+06/20/16 01:24:07:179 | [INFO] | 30573 | ADCS | AEMSignIn |  |  | AEMSignIn | 865180 | Initialize called: <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CommandLineArguments ApplicationID="" IsServiceInstance="">
+    <appletID>SignInApp_BL</appletID>
+    <appletVersion>1.0</appletVersion>
+    <appletInstanceID>12D4E07A-A228-4A3B-8E8C-CF61E35FAE28</appletInstanceID>
+    <appletDIR>/Library/Application Support/Adobe/Adobe Desktop Common/SignInApp</appletDIR>
+</CommandLineArguments>
+06/20/16 01:24:07:195 | [INFO] | 30573 | ADCS | Core | Applet |  | Core | 865180 | Loading Applet - LWA_Native for InstanceID - 12D4E07A-A228-4A3B-8E8C-CF61E35FAE28
+06/20/16 01:24:07:250 | [INFO] | 30573 | ADCS | C3PrefsCoreExt | C3PrefsMessageProcessor |  | C3PrefsCoreExt | 865180 | Inside GetLocalConfigXmlPath
+06/20/16 01:24:07:250 | [WARN] | 30573 | ADCS | OOBEUtils | XMLParser |  | OOBEUtils | 865180 | ERROR invalid xml file path. Could not read data from path /Applications/Utilities/Adobe Creative Cloud//C3Config.sig
+06/20/16 01:24:07:250 | [WARN] | 30573 | ADCS | OOBEUtils | XMLParser |  | OOBEUtils | 865180 | Error Description Error Domain=NSCocoaErrorDomain Code=260 "The file “C3Config.sig” couldn’t be opened because there is no such file." UserInfo={NSFilePath=/Applications/Utilities/Adobe Creative Cloud//C3Config.sig, NSUnderlyingError=0x79e85fd0 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+06/20/16 01:24:07:250 | [WARN] | 30573 | ADCS | C3PrefsCoreExt |  |  | C3PrefsCoreExt | 865180 | Could not initialize C3Config sig file as XML data
+06/20/16 01:24:07:251 | [INFO] | 30573 | ADCS | LocalizationManager |  |  | LocalizationManager | 865180 | Inside GetLocaleForApplet
+06/20/16 01:24:07:369 | [INFO] | 30573 | ADCS | Core | Applet |  | Core | 865180 | Loading Applet - HomePanel_BL for InstanceID - 12D4E07A-A228-4A3B-8E8C-CF61E35FAE28
+06/20/16 01:24:07:408 | [INFO] | 30573 | ADCS | HomePanelBL |  |  | HomePanelBL | 865180 | Initialize called: <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CommandLineArguments ApplicationID="" IsServiceInstance="">
+    <appletID>HomePanel_BL</appletID>
+    <appletVersion>1.0</appletVersion>
+    <appletInstanceID>12D4E07A-A228-4A3B-8E8C-CF61E35FAE28</appletInstanceID>
+    <appletDIR>/Applications/Utilities/Adobe Creative Cloud/HomePanel/HomePanelBL.bundle/Contents/MacOS</appletDIR>
+</CommandLineArguments>
+06/20/16 01:24:07:412 | [INFO] | 30573 | ADCS | C3PrefsCoreExt | C3PrefsMessageProcessor |  | C3PrefsCoreExt | 865180 | Inside GetLocalConfigXmlPath
+06/20/16 01:24:07:412 | [WARN] | 30573 | ADCS | OOBEUtils | XMLParser |  | OOBEUtils | 865180 | ERROR invalid xml file path. Could not read data from path /Applications/Utilities/Adobe Creative Cloud//C3Config.sig
+06/20/16 01:24:07:412 | [WARN] | 30573 | ADCS | OOBEUtils | XMLParser |  | OOBEUtils | 865180 | Error Description Error Domain=NSCocoaErrorDomain Code=260 "The file “C3Config.sig” couldn’t be opened because there is no such file." UserInfo={NSFilePath=/Applications/Utilities/Adobe Creative Cloud//C3Config.sig, NSUnderlyingError=0x79fbe110 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+06/20/16 01:24:07:412 | [WARN] | 30573 | ADCS | C3PrefsCoreExt |  |  | C3PrefsCoreExt | 865180 | Could not initialize C3Config sig file as XML data
+06/20/16 01:24:07:422 | [INFO] | 30573 | ADCS | LocalizationManager | LocalizationManager |  | LocalizationManager | 865180 | Dictionary Path: /Applications/Utilities/Adobe Creative Cloud/HomePanel/HomePanelBL.bundle/Contents/Resources/Dictionary/en_US/stringTable.zdct
+06/20/16 01:24:07:586 | [INFO] | 30573 | ADCS | LocalizationManager | LocalizationManager |  | LocalizationManager | 865180 | Dictionary reading successful.
+06/20/16 01:24:07:727 | [INFO] | 30573 | ADCS | Core | Applet |  | Core | 865180 | Loading Applet - AppsPanel_BL for InstanceID - 12D4E07A-A228-4A3B-8E8C-CF61E35FAE28
+06/20/16 01:24:07:850 | [INFO] | 30573 | ADCS | ProductsAppsBL |  |  | ProductsAppsBL | 865180 | Initialize called: <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CommandLineArguments ApplicationID="" IsServiceInstance="">
+    <appletID>AppsPanel_BL</appletID>
+    <appletVersion>1.0</appletVersion>
+    <appletInstanceID>12D4E07A-A228-4A3B-8E8C-CF61E35FAE28</appletInstanceID>
+    <appletDIR>/Applications/Utilities/Adobe Creative Cloud/AppsPanel/AppsPanelBL.bundle/Contents/MacOS</appletDIR>
+</CommandLineArguments>
+06/20/16 01:24:07:859 | [INFO] | 30573 | ADCS | LocalizationManager | LocalizationManager |  | LocalizationManager | 865180 | Dictionary Path: /Applications/Utilities/Adobe Creative Cloud/AppsPanel/AppsPanelBL.bundle/Contents/resource/Dictionary/en_US/stringTable.zdct
+06/20/16 01:24:07:866 | [INFO] | 30573 | ADCS | LocalizationManager | LocalizationManager |  | LocalizationManager | 865180 | Dictionary reading successful.
+06/20/16 01:24:08:101 | [INFO] | 30573 | ADCS | Core | Applet |  | Core | 865364 | Loading Applet - AppsPanel_IL for InstanceID - 12D4E07A-A228-4A3B-8E8C-CF61E35FAE28
+06/20/16 01:24:08:131 | [INFO] | 30573 | ADCS | ProductsAppsIL |  |  | ProductsAppsIL | 865364 | Initialize called: <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CommandLineArguments ApplicationID="" IsServiceInstance="">
+    <appletID>AppsPanel_IL</appletID>
+    <appletVersion>1.0</appletVersion>
+    <appletInstanceID>12D4E07A-A228-4A3B-8E8C-CF61E35FAE28</appletInstanceID>
+    <appletDIR>/Applications/Utilities/Adobe Creative Cloud//AppsPanel</appletDIR>
+</CommandLineArguments>
+06/20/16 01:24:08:131 | [INFO] | 30573 | ADCS | Core | Applet |  | Core | 865180 | Loading Applet - AssetsPanel_BL for InstanceID - 12D4E07A-A228-4A3B-8E8C-CF61E35FAE28
+06/20/16 01:24:08:233 | [INFO] | 30573 | ADCS | AssetsUI |  |  | AssetsUI | 865180 | Initialize called: <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CommandLineArguments ApplicationID="" IsServiceInstance="">
+    <appletID>AssetsPanel_BL</appletID>
+    <appletVersion>1.0</appletVersion>
+    <appletInstanceID>12D4E07A-A228-4A3B-8E8C-CF61E35FAE28</appletInstanceID>
+    <appletDIR>/Applications/Utilities/Adobe Creative Cloud//AssetsPanel</appletDIR>
+</CommandLineArguments>
+06/20/16 01:24:08:238 | [INFO] | 30573 | ADCS | LocalizationManager | LocalizationManager |  | LocalizationManager | 865180 | Dictionary Path: /Applications/Utilities/Adobe Creative Cloud//AssetsPanel/resource/Dictionary/en_US/stringTable.zdct
+06/20/16 01:24:08:238 | [INFO] | 30573 | ADCS | LocalizationManager | LocalizationManager |  | LocalizationManager | 865180 | Dictionary reading successful.
+06/20/16 01:24:08:244 | [INFO] | 30573 | ADCS | ProductsAppsBL | SystemUtilities |  | ProductsAppsBL | 865364 | Current system is 64 bit
+06/20/16 01:24:08:259 | [INFO] | 30573 | ADCS | Core | Applet |  | Core | 865180 | Loading Applet - MarketPanel_BL for InstanceID - 12D4E07A-A228-4A3B-8E8C-CF61E35FAE28
+06/20/16 01:24:08:452 | [INFO] | 30573 | ADCS | MarketAppBL |  |  | MarketAppBL | 865180 | Initialize called: <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CommandLineArguments ApplicationID="" IsServiceInstance="">
+    <appletID>MarketPanel_BL</appletID>
+    <appletVersion>1.0</appletVersion>
+    <appletInstanceID>12D4E07A-A228-4A3B-8E8C-CF61E35FAE28</appletInstanceID>
+    <appletDIR>/Applications/Utilities/Adobe Creative Cloud//MarketPanel</appletDIR>
+</CommandLineArguments>
+06/20/16 01:24:08:453 | [INFO] | 30573 | ADCS | C3PrefsCoreExt | C3PrefsMessageProcessor |  | C3PrefsCoreExt | 865180 | Inside GetLocalConfigXmlPath
+06/20/16 01:24:08:453 | [WARN] | 30573 | ADCS | OOBEUtils | XMLParser |  | OOBEUtils | 865180 | ERROR invalid xml file path. Could not read data from path /Applications/Utilities/Adobe Creative Cloud//C3Config.sig
+06/20/16 01:24:08:454 | [WARN] | 30573 | ADCS | OOBEUtils | XMLParser |  | OOBEUtils | 865180 | Error Description Error Domain=NSCocoaErrorDomain Code=260 "The file “C3Config.sig” couldn’t be opened because there is no such file." UserInfo={NSFilePath=/Applications/Utilities/Adobe Creative Cloud//C3Config.sig, NSUnderlyingError=0x79eb28b0 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+06/20/16 01:24:08:454 | [WARN] | 30573 | ADCS | C3PrefsCoreExt |  |  | C3PrefsCoreExt | 865180 | Could not initialize C3Config sig file as XML data
+06/20/16 01:24:08:454 | [INFO] | 30573 | ADCS | Core | Applet |  | Core | 865180 | Loading Applet - FilesPanel_BL for InstanceID - 12D4E07A-A228-4A3B-8E8C-CF61E35FAE28
+06/20/16 01:24:08:514 | [INFO] | 30573 | ADCS | FileAppsUI |  |  | FileAppsUI | 865180 | Initialize called: <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CommandLineArguments ApplicationID="" IsServiceInstance="">
+    <appletID>FilesPanel_BL</appletID>
+    <appletVersion>1.0</appletVersion>
+    <appletInstanceID>12D4E07A-A228-4A3B-8E8C-CF61E35FAE28</appletInstanceID>
+    <appletDIR>/Applications/Utilities/Adobe Creative Cloud/FilesPanel/FilesPanelBL.bundle/Contents/MacOS</appletDIR>
+</CommandLineArguments>
+06/20/16 01:24:08:600 | [INFO] | 30573 | ADCS | LocalizationManager | LocalizationManager |  | LocalizationManager | 865180 | Dictionary Path: /Applications/Utilities/Adobe Creative Cloud/FilesPanel/FilesPanelBL.bundle/Contents/Resources/Dictionary/en_US/stringTable.zdct
+06/20/16 01:24:08:605 | [INFO] | 30573 | ADCS | LocalizationManager | LocalizationManager |  | LocalizationManager | 865180 | Dictionary reading successful.
+06/20/16 01:24:08:753 | [WARN] | 30573 | ADCS | ProductsAppsBL | ProductsAppBLManager |  | ProductsAppsBL | 865364 | UI View is not created yet, Adding msg to queue
+06/20/16 01:24:08:758 | [WARN] | 82884 | ACCC | Core | ExternalGateway |  | Core | 865418 | There is no entry found for the request Id - 6AC3B292-339F-41EB-8245-C9DC11630DFE
+06/20/16 01:24:08:759 | [ERROR] | 82884 | ACCC | HEX | HEX |  | HEX | 865418 | Inside processMessageObjectForJSON: stringValueForXQuery failed for //guid or guid is empty.
+06/20/16 01:24:08:769 | [WARN] | 30573 | ADCS | ProductsAppsBL | ProductsAppBLManager |  | ProductsAppsBL | 865364 | UI View is not created yet, Adding msg to queue
+06/20/16 01:24:08:771 | [WARN] | 30573 | ADCS | c3containerBL | ContainerBLMessageHandler |  | c3containerBL | 865364 | GetUserProfileXml: No access token present. User not signed in.
+06/20/16 01:24:08:771 | [INFO] |  | ACCC | Analytics | ETSFramework |  |  | 865364 | Event Guid generated is: 'a582b543-a95f-4c9c-907a-3ebf0b62c7b8'
+06/20/16 01:24:08:772 | [INFO] |  | ACCC | Analytics | ETSFramework |  |  | 865262 | Event with guid 'a582b543-a95f-4c9c-907a-3ebf0b62c7b8' is being sent
+06/20/16 01:24:08:795 | [INFO] | 30573 | ADCS | C3PrefsCoreExt | C3PrefsMessageProcessor |  | C3PrefsCoreExt | 865364 | Inside GetLocalConfigXmlPath
+06/20/16 01:24:08:795 | [WARN] | 30573 | ADCS | OOBEUtils | XMLParser |  | OOBEUtils | 865364 | ERROR invalid xml file path. Could not read data from path /Applications/Utilities/Adobe Creative Cloud//C3Config.sig
+06/20/16 01:24:08:795 | [WARN] | 30573 | ADCS | OOBEUtils | XMLParser |  | OOBEUtils | 865364 | Error Description Error Domain=NSCocoaErrorDomain Code=260 "The file “C3Config.sig” couldn’t be opened because there is no such file." UserInfo={NSFilePath=/Applications/Utilities/Adobe Creative Cloud//C3Config.sig, NSUnderlyingError=0x7a8af590 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+06/20/16 01:24:08:795 | [WARN] | 30573 | ADCS | C3PrefsCoreExt |  |  | C3PrefsCoreExt | 865364 | Could not initialize C3Config sig file as XML data
+06/20/16 01:24:08:823 | [INFO] | 30573 | ADCS | FileAppsUI | FileSyncDataManager |  | FileAppsUI | 865180 | Going to apply the latest schema
+06/20/16 01:24:08:836 | [INFO] | 30573 | ADCS | Core | Applet |  | Core | 865180 | Loading Applet - FontsPanel_BL for InstanceID - 12D4E07A-A228-4A3B-8E8C-CF61E35FAE28
+06/20/16 01:24:08:898 | [INFO] | 30573 | ADCS | FontsAppBL |  |  | FontsAppBL | 865180 | Initialize called: <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CommandLineArguments ApplicationID="" IsServiceInstance="">
+    <appletID>FontsPanel_BL</appletID>
+    <appletVersion>1.0</appletVersion>
+    <appletInstanceID>12D4E07A-A228-4A3B-8E8C-CF61E35FAE28</appletInstanceID>
+    <appletDIR>/Applications/Utilities/Adobe Creative Cloud/FontsPanel/FontsPanelBL.bundle/Contents/MacOS</appletDIR>
+</CommandLineArguments>
+06/20/16 01:24:08:900 | [INFO] | 30573 | ADCS | C3PrefsCoreExt | C3PrefsMessageProcessor |  | C3PrefsCoreExt | 865180 | Inside GetLocalConfigXmlPath
+06/20/16 01:24:08:900 | [WARN] | 30573 | ADCS | OOBEUtils | XMLParser |  | OOBEUtils | 865180 | ERROR invalid xml file path. Could not read data from path /Applications/Utilities/Adobe Creative Cloud//C3Config.sig
+06/20/16 01:24:08:901 | [WARN] | 30573 | ADCS | OOBEUtils | XMLParser |  | OOBEUtils | 865180 | Error Description Error Domain=NSCocoaErrorDomain Code=260 "The file “C3Config.sig” couldn’t be opened because there is no such file." UserInfo={NSFilePath=/Applications/Utilities/Adobe Creative Cloud//C3Config.sig, NSUnderlyingError=0x79eb9930 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+06/20/16 01:24:08:901 | [WARN] | 30573 | ADCS | C3PrefsCoreExt |  |  | C3PrefsCoreExt | 865180 | Could not initialize C3Config sig file as XML data
+06/20/16 01:24:08:902 | [INFO] | 30573 | ADCS | LocalizationManager |  |  | LocalizationManager | 865180 | Inside GetLocaleForApplet
+06/20/16 01:24:08:907 | [INFO] | 30573 | ADCS | FontsAppBL | FONTS_PANEL |  | FontsAppBL | 865180 | Locale Used for applet: en_US
+06/20/16 01:24:08:911 | [INFO] | 30573 | ADCS | Core | Applet |  | Core | 865180 | Loading Applet - SPanel_BL for InstanceID - 12D4E07A-A228-4A3B-8E8C-CF61E35FAE28
+06/20/16 01:24:08:990 | [WARN] | 30573 | ADCS | ProductsAppsBL | BL_COMMAND_HANDLER |  | ProductsAppsBL | 865364 | Message Dropped - GetTabDisplayName
+06/20/16 01:24:09:115 | [INFO] | 30573 | ADCS | StockAppBL |  |  | StockAppBL | 865180 | Initialize called: <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CommandLineArguments ApplicationID="" IsServiceInstance="">
+    <appletID>SPanel_BL</appletID>
+    <appletVersion>1.0</appletVersion>
+    <appletInstanceID>12D4E07A-A228-4A3B-8E8C-CF61E35FAE28</appletInstanceID>
+    <appletDIR>/Applications/Utilities/Adobe Creative Cloud//SPanel</appletDIR>
+</CommandLineArguments>
+06/20/16 01:24:09:117 | [INFO] | 30573 | ADCS | LocalizationManager |  |  | LocalizationManager | 865180 | Inside GetLocaleForApplet
+06/20/16 01:24:09:121 | [INFO] | 30573 | ADCS | Core | Applet |  | Core | 865180 | Loading Applet - BehancePanel_BL for InstanceID - 12D4E07A-A228-4A3B-8E8C-CF61E35FAE28
+06/20/16 01:24:09:249 | [INFO] | 30573 | ADCS | BehancePanelBL |  |  | BehancePanelBL | 865180 | Initialize called: <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CommandLineArguments ApplicationID="" IsServiceInstance="">
+    <appletID>BehancePanel_BL</appletID>
+    <appletVersion>1.0</appletVersion>
+    <appletInstanceID>12D4E07A-A228-4A3B-8E8C-CF61E35FAE28</appletInstanceID>
+    <appletDIR>/Applications/Utilities/Adobe Creative Cloud/BehancePanel/BehancePanelBL.bundle/Contents/MacOS</appletDIR>
+</CommandLineArguments>
+06/20/16 01:24:09:250 | [INFO] | 30573 | ADCS | C3PrefsCoreExt | C3PrefsMessageProcessor |  | C3PrefsCoreExt | 865180 | Inside GetLocalConfigXmlPath
+06/20/16 01:24:09:250 | [WARN] | 30573 | ADCS | OOBEUtils | XMLParser |  | OOBEUtils | 865180 | ERROR invalid xml file path. Could not read data from path /Applications/Utilities/Adobe Creative Cloud//C3Config.sig
+06/20/16 01:24:09:250 | [WARN] | 30573 | ADCS | OOBEUtils | XMLParser |  | OOBEUtils | 865180 | Error Description Error Domain=NSCocoaErrorDomain Code=260 "The file “C3Config.sig” couldn’t be opened because there is no such file." UserInfo={NSFilePath=/Applications/Utilities/Adobe Creative Cloud//C3Config.sig, NSUnderlyingError=0x79fc4d30 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+06/20/16 01:24:09:250 | [WARN] | 30573 | ADCS | C3PrefsCoreExt |  |  | C3PrefsCoreExt | 865180 | Could not initialize C3Config sig file as XML data
+06/20/16 01:24:09:251 | [INFO] | 30573 | ADCS | HomePanelBL | HomePanel_BL |  | HomePanelBL | 865180 | ProcessCommandLine received
+06/20/16 01:24:09:252 | [INFO] | 30573 | ADCS | HomePanelBL | HomePanel_BL |  | HomePanelBL | 865180 | ProcessCommandLine: No closeWindow message received
+06/20/16 01:24:09:252 | [INFO] | 30573 | ADCS | c3containerBL | CoreSyncHandler |  | c3containerBL | 865180 | launchCoreSync >> firstLaunch => 1
+06/20/16 01:24:09:265 | [INFO] | 30573 | ADCS | c3containerBL | CoreSyncHandler |  | c3containerBL | 865180 | postLaunchHook
+06/20/16 01:24:09:266 | [INFO] | 30573 | ADCS | c3containerBL | ContainerBLMessageHandler |  | c3containerBL | 865180 | OS Version is 10.11
+06/20/16 01:24:09:266 | [INFO] | 30573 | ADCS | c3containerBL | CcxHandler |  | c3containerBL | 865180 | launchCcxWelcomeProcess >> firstLaunch => 1
+06/20/16 01:24:09:274 | [INFO] | 30573 | ADCS | c3containerBL | IMSLibHelper |  | c3containerBL | 865180 | Opening OOBELib session for DeviceID...
+06/20/16 01:24:09:384 | [INFO] | 30573 | ADCS | VulcanWrapper | VulcanInterface |  | VulcanWrapper | 865259 | Received RefreshEndPoints callback:
+06/20/16 01:24:09:384 | [INFO] | 82884 | ACCC | VulcanWrapper | VulcanInterface |  | VulcanWrapper | 864661 | Received RefreshEndPoints callback:
+06/20/16 01:24:09:534 | [INFO] | 30573 | ADCS | c3containerBL | IMSLibHelper |  | c3containerBL | 865180 | Opened PWASession with session key - 8EA4F0C7-4865-4E9A-9575-5C2F85536822
+06/20/16 01:24:09:534 | [INFO] | 30573 | ADCS | c3containerBL | IMSLibHelper |  | c3containerBL | 865180 | Performing getDeviceID...
+06/20/16 01:24:09:549 | [INFO] | 30573 | ADCS | c3containerBL | IMSLibHelper |  | c3containerBL | 865180 | deviceID => D3A898C723E70FDCACAB6FFF96310FA34D4C71352428CF58A3365B1AE977C22A
+06/20/16 01:24:09:549 | [INFO] | 30573 | ADCS | c3containerBL | IMSLibHelper |  | c3containerBL | 865180 | deviceName => Joshs-Desktop.local
+06/20/16 01:24:09:553 | [INFO] | 30573 | ADCS | c3containerBL | IMSLibHelper |  | c3containerBL | 865180 | MachineHashedID => C7E2AC34E2FF24A87764378EBFEC2913
+06/20/16 01:24:09:553 | [INFO] | 30573 | ADCS | c3containerBL | IMSLibHelper |  | c3containerBL | 865180 | Closing OOBELib session : 8EA4F0C7-4865-4E9A-9575-5C2F85536822 commit : 1
+06/20/16 01:24:09:820 | [INFO] | 30573 | ADCS | c3containerBL | CoreSyncHandler |  | c3containerBL | 865397 | handleCoreSyncStartedUp
+06/20/16 01:24:09:820 | [INFO] | 30573 | ADCS | Core | CoreCommandHandler |  | Core | 865219 | HandleMessage: Message is not defined/implemented in core: coreSyncLaunched. Broadcasting to core extensions
+06/20/16 01:24:09:824 | [WARN] | 30573 | ADCS | Core | ExternalGateway |  | Core | 865396 | Message 'coreSyncLaunched': Target applet 'AssetsPanel_UI' is not loaded for instance '12D4E07A-A228-4A3B-8E8C-CF61E35FAE28'
+06/20/16 01:24:09:824 | [INFO] | 30573 | ADCS | FileAppsUI | FilesAppUIContainerMessageProcessor |  | FileAppsUI | 865329 | coresync launched is received by files panel
+06/20/16 01:24:09:824 | [INFO] | 30573 | ADCS | FontsAppBL | FONTS_PANEL |  | FontsAppBL | 865396 | Inside coreSyncLaunched
+06/20/16 01:24:09:824 | [INFO] | 30573 | ADCS | FontsAppBL | FONTS_PANEL |  | FontsAppBL | 865396 | Inside handleOfflineMode
+06/20/16 01:24:09:825 | [INFO] | 30573 | ADCS | FontsAppBL | FONTS_PANEL |  | FontsAppBL | 865396 | GetPrefsData: Setting sync on as no user pref found
+06/20/16 01:24:09:827 | [INFO] | 30573 | ADCS | FontsAppBL | FONTS_PANEL |  | FontsAppBL | 865396 | handleOfflineMode - Sync On was found to be true..setting syncOn state
+06/20/16 01:24:09:827 | [INFO] | 30573 | ADCS | FontsAppBL | FONTS_PANEL |  | FontsAppBL | 865396 | Send Update Preferences to LiveType: ON
+06/20/16 01:24:09:828 | [INFO] | 30573 | ADCS | FontsAppBL | FONTS_PANEL |  | FontsAppBL | 865396 | Handling updateFontsStateBasedOnPref
+06/20/16 01:24:09:828 | [INFO] | 30573 | ADCS | FontsAppBL | FONTS_PANEL |  | FontsAppBL | 865396 | Returning from updateFontsStateBasedOnPref
+06/20/16 01:24:09:829 | [INFO] | 30573 | ADCS | c3containerBL | IMSLibHelper |  | c3containerBL | 865180 | Done closing PWASession : 8EA4F0C7-4865-4E9A-9575-5C2F85536822
+06/20/16 01:24:09:831 | [INFO] | 30573 | ADCS | FontsAppBL | FONTS_PANEL |  | FontsAppBL | 865329 | Handling UpdatePreferencesResponse from Livetype
+06/20/16 01:24:09:832 | [INFO] | 30573 | ADCS | FontsAppBL | FONTS_PANEL |  | FontsAppBL | 865329 | Ignoring UpdatePreferencesResponse from Livetype for OfflineMode
+06/20/16 01:24:09:865 | [WARN] | 30573 | ADCS | c3containerBL | MessageHandler |  | c3containerBL | 865180 | Failed in getting value for key in OPMGetValueForKey
+06/20/16 01:24:09:865 | [INFO] | 30573 | ADCS | c3containerBL | SignInStateMachine |  | c3containerBL | 865180 | changeState ~> 0 - 0 - 5
+06/20/16 01:24:09:866 | [INFO] | 30573 | ADCS | c3containerBL | SignInStateMachine |  | c3containerBL | 865180 | changeState ~> 0 - 1 - 5
+06/20/16 01:24:09:891 | [INFO] | 30573 | ADCS | c3containerBL | IMSLibHelper |  | c3containerBL | 865180 | Opening IMSSession...
+06/20/16 01:24:10:079 | [INFO] | 30573 | ADCS | c3containerBL | IMSLibHelper |  | c3containerBL | 865180 | Done opening IMSSession, session key - 3F6CA605-90F8-47CD-9163-75668EA9F6B7
+06/20/16 01:24:10:079 | [INFO] | 30573 | ADCS | c3containerBL | IMSLibHelper |  | c3containerBL | 865180 | Invoking Register Client ID for Group
+06/20/16 01:24:10:083 | [INFO] | 30573 | ADCS | c3containerBL | IMSLibHelper |  | c3containerBL | 865180 | Fetching default user profile for requested ClientID...
+06/20/16 01:24:10:087 | [INFO] | 30573 | ADCS | c3containerBL | UserProfileData |  | c3containerBL | 865180 | Set Profile Data...
+06/20/16 01:24:10:088 | [INFO] | 30573 | ADCS | c3containerBL | IMSLibHelper |  | c3containerBL | 865180 | Retrieved default user profile successfully
+06/20/16 01:24:10:088 | [ERROR] | 30573 | ADCS | c3containerBL | IMSLibHelper |  | c3containerBL | 865180 | Empty Person GUID found!
+06/20/16 01:24:10:088 | [INFO] | 30573 | ADCS | c3containerBL | SignInStateMachine |  | c3containerBL | 865180 | changeState ~> 1 - 1 - 5
+06/20/16 01:24:10:088 | [INFO] | 30573 | ADCS | c3containerBL | SignInStateMachine |  | c3containerBL | 865180 | IMS Loading starting timer
+06/20/16 01:24:10:093 | [WARN] | 82884 | ACCC | Core | ExternalGateway |  | Core | 865596 | There is no entry found for the request Id - 73C4E051-DD9E-4259-881B-A2B649E51FA1
+06/20/16 01:24:10:101 | [INFO] | 82884 | ACCC | c3containerUI | UIManager |  | c3containerUI | 864458 | CreateSignInView
+06/20/16 01:24:10:101 | [ERROR] | 82884 | ACCC | HEX | HEX |  | HEX | 864458 | Inside deleteCookies: stringValueForXQuery failed for //guid. inXMLData = <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xmldata>
+    <guid></guid>
+</xmldata>
+06/20/16 01:24:10:103 | [INFO] | 82884 | ACCC | HEX | HEX |  | HEX | 864458 | attachParentWindowEx successful with Viewptr as 0x7b17d430
+06/20/16 01:24:10:104 | [INFO] | 82884 | ACCC | HEX | HEX |  | HEX | 864458 | Load URL Successful https://ims-prod07.adobelogin.com/ims/authorize/v1?client_id=CreativeCloud_v3_5&state={"ac":"CCDesktop_app","av":"3.5.1.209"}&locale=en_US&response_type=device&device_id=D3A898C723E70FDCACAB6FFF96310FA34D4C71352428CF58A3365B1AE977C22A&device_name=Joshs-Desktop.local&scope=openid,AdobeID,creative_cloud,creative_sdk,read_organizations,sao.cce_private,additional_info.account_type&redirect_uri=https://oobe.adobe.com/&force_marketing_permission=true
+06/20/16 01:24:10:108 | [INFO] | 82884 | ACCC | c3containerUI | UIManager |  | c3containerUI | 864458 | SignIn View Created
+06/20/16 01:24:10:117 | [INFO] | 30573 | ADCS | c3containerBL | ContainerBLMessageHandler |  | c3containerBL | 865180 | LoadTimeLogs: End BeginWorklow...
+06/20/16 01:24:10:206 | [INFO] | 30573 | ADCS | c3containerBL | CoreSyncHandler |  | c3containerBL | 865397 | handleSignInForCoreSyncOnPingResponse >> coreSyncStartedUp => 1
+06/20/16 01:24:11:458 | [INFO] | 82884 | ACCC | c3containerUI | MessageHandler |  | c3containerUI | 864458 | onDOCReady Received
+06/20/16 01:24:11:549 | [INFO] | 82884 | ACCC | c3containerUI | MessageHandler |  | c3containerUI | 864614 | Inside ActiveContainer
+06/20/16 01:24:12:249 | [INFO] | 30573 | ADCS | VulcanWrapper | VulcanInterface |  | VulcanWrapper | 865259 | Received RefreshEndPoints callback:
+06/20/16 01:24:12:249 | [INFO] | 82884 | ACCC | VulcanWrapper | VulcanInterface |  | VulcanWrapper | 864661 | Received RefreshEndPoints callback:
+06/20/16 01:24:13:419 | [INFO] | 30573 | ADCS | ProductsAppsBL | IconsRelatedCommand |  | ProductsAppsBL | 865364 | case ICONS_PREFETCH_RESULT Going to Parse now in Separate thread
+06/20/16 01:24:13:849 | [INFO] | 82884 | ACCC | c3containerUI | MessageHandler |  | c3containerUI | 864458 | onDOMReady Received
+06/20/16 01:24:14:000 | [INFO] | 82884 | ACCC | c3containerUI | MessageHandler |  | c3containerUI | 864615 | Inside ActiveContainer
+06/20/16 01:24:15:023 | [INFO] | 30573 | ADCS | c3containerBL | SignInStateMachine |  | c3containerBL | 865329 | changeState ~> 2 - 1 - 5
+06/20/16 01:24:15:028 | [WARN] | 82884 | ACCC | Core | ExternalGateway |  | Core | 866023 | There is no entry found for the request Id - 8C53EAF7-B238-481A-B184-C5D0638975BA
+06/20/16 01:24:15:145 | [INFO] | 82884 | ACCC | c3containerUI | MessageHandler |  | c3containerUI | 864615 | Inside ActiveContainer
+06/20/16 01:24:15:149 | [WARN] | 82884 | ACCC | Core | ExternalGateway |  | Core | 866040 | There is no entry found for the request Id - 4E63F408-7A06-4792-8099-086D3CC87BB6
+06/20/16 01:24:15:156 | [INFO] | 30573 | ADCS | c3containerBL | SignInStateMachine |  | c3containerBL | 865329 | changeState ~> 3 - 1 - 5
+06/20/16 01:24:15:157 | [INFO] | 82884 | ACCC | c3containerUI | MessageHandler |  | c3containerUI | 864615 | Inside ActiveContainer
+06/20/16 01:24:15:160 | [WARN] | 30573 | ADCS | c3containerBL | ContainerBLMessageHandler |  | c3containerBL | 865329 | GetUserProfileXml: No access token present. User not signed in.
+06/20/16 01:24:15:160 | [INFO] |  | ACCC | Analytics | ETSFramework |  |  | 865329 | Event Guid generated is: 'c7d71f2a-b0d9-4aee-b2e6-1a21186d1740'
+06/20/16 01:24:15:160 | [INFO] |  | ACCC | Analytics | ETSFramework |  |  | 865262 | Event with guid 'c7d71f2a-b0d9-4aee-b2e6-1a21186d1740' is being sent
+06/20/16 01:24:15:168 | [INFO] | 82884 | ACCC | LocalizationManager | LocalizationManager |  | LocalizationManager | 864458 | Dictionary Path: /Applications/Utilities/Adobe Creative Cloud/ACC/resource/Dictionary/en_US/stringTable.zdct
+06/20/16 01:24:15:173 | [INFO] | 82884 | ACCC | LocalizationManager | LocalizationManager |  | LocalizationManager | 864458 | Dictionary reading successful.
+06/20/16 01:24:15:448 | [INFO] | 82884 | ACCC | c3containerUI | MessageHandler |  | c3containerUI | 864615 | Inside ActiveContainer
+06/20/16 01:24:16:615 | [INFO] | 30573 | ADCS | ProductsAppsBL | IconsRelatedCommand |  | ProductsAppsBL | 865364 | Setting hasIconsPrefetched = true sending notification for kICONS_PREFETCHED_COMMAND
+06/20/16 01:24:16:615 | [INFO] | 30573 | ADCS | ProductsAppsBL | StateManagerLog |  | ProductsAppsBL | 865364 | icon file processed
+06/20/16 01:24:16:615 | [INFO] | 30573 | ADCS | ProductsAppsBL | StateManagerLog |  | ProductsAppsBL | 865364 | Inside ICONS_PREFETCHED  state !globalDataProxy->isSignedIn. breaking
+06/20/16 01:25:02:553 | [WARN] | 82884 | ACCC | Core | ExternalGateway |  | Core | 867842 | There is no entry found for the request Id - 12717B75-DA16-4EDB-8078-FA728BADB819
+06/20/16 01:25:02:562 | [WARN] | 30573 | ADCS | c3containerBL | ContainerBLMessageHandler |  | c3containerBL | 865220 | GetUserProfileXml: No access token present. User not signed in.
+06/20/16 01:25:02:562 | [INFO] |  | ACCC | Analytics | ETSFramework |  |  | 865220 | Event Guid generated is: '1d84cd09-cc26-4071-81c1-e29fc4cff7fa'
+06/20/16 01:25:02:562 | [INFO] |  | ACCC | Analytics | ETSFramework |  |  | 865262 | Event with guid '1d84cd09-cc26-4071-81c1-e29fc4cff7fa' is being sent
+06/20/16 01:25:02:596 | [WARN] | 30573 | ADCS | Core | ExternalGateway |  | Core | 867844 | There is no entry found for the request Id - 275E6476-E135-4CB1-AA4D-84DD60A1256F
+06/20/16 01:25:02:599 | [WARN] | 30573 | ADCS | Core | ExternalGateway |  | Core | 865180 | Message 'HideStatusBar': No target applet found.
+06/20/16 01:25:02:600 | [WARN] | 30573 | ADCS | Core | ExternalGateway |  | Core | 865180 | Message 'HideStatusBar': No target applet found.
+06/20/16 01:25:02:602 | [INFO] | 82884 | ACCC | c3containerUI | MessageHandler |  | c3containerUI | 864458 | UI Quit Confirmed. So releasing all the blocking threads
+06/20/16 01:25:02:602 | [INFO] | 82884 | ACCC | Core | CoreCommandHandler |  | Core | 864458 | HandleMessage: Message is not defined/implemented in core: ShuttingDown. Broadcasting to core extensions
+06/20/16 01:25:02:602 | [INFO] | 82884 | ACCC | ACE | ACE |  | ACE | 864458 | Shutting Down Analytics
+06/20/16 01:25:02:603 | [INFO] |  | ACCC | Analytics | ETSFramework |  |  | 864458 | Waiting for the async thread to get the task completed
+06/20/16 01:25:02:603 | [INFO] |  | ACCC | Analytics | ETSFramework |  |  | 864763 | Async thread is completed. Now exiting from function.
+06/20/16 01:25:02:604 | [INFO] | 82884 | ACCC | ACE | Analytics |  | ACE | 864458 | ETS framework is shutdown
+06/20/16 01:25:02:626 | [INFO] | 82884 | ACCC | c3containerUI | MessageHandler |  | c3containerUI | 864458 | Received Quit message when Quit is already in progress - Message dropped 
+06/20/16 01:25:02:633 | [INFO] | 82884 | ACCC | Core | Applet |  | Core | 864458 | Unloading Applet - C3Container_UINative for instance ID - BC9DEBF9-4FF2-47E0-BA45-B805A611971C
+06/20/16 01:25:02:634 | [INFO] | 82884 | ACCC | Core | Applet |  | Core | 864458 | Unloading applet library
+06/20/16 01:25:02:724 | [WARN] | 82884 | ACCC | Core | CoreCommandHandler |  | Core | 864458 | Applet cannot unload core extensions or UI engines. They are unloaded automatically.
+06/20/16 01:25:02:724 | [INFO] | 82884 | ACCC | Core | Applet |  | Core | 864458 | Unloading Applet - Analytics_CoreExt for instance ID - CoreInstance
+06/20/16 01:25:02:724 | [INFO] | 82884 | ACCC | Core | Applet |  | Core | 864458 | Unloading applet library
+06/20/16 01:25:02:724 | [INFO] | 82884 | ACCC | Core | Applet |  | Core | 864458 | Unloading Applet - LocManager_CoreExt for instance ID - CoreInstance
+06/20/16 01:25:02:724 | [INFO] | 82884 | ACCC | LocalizationManager |  |  | LocalizationManager | 864458 | LocalizationManager finalize called
+06/20/16 01:25:02:724 | [INFO] | 82884 | ACCC | Core | Applet |  | Core | 864458 | Unloading applet library
+06/20/16 01:25:02:724 | [INFO] | 82884 | ACCC | Core | Applet |  | Core | 864458 | Unloading Applet - C3Prefs_CoreExt for instance ID - CoreInstance
+06/20/16 01:25:02:724 | [INFO] | 82884 | ACCC | C3PrefsCoreExt |  |  | C3PrefsCoreExt | 864458 | Finalize called: 
+06/20/16 01:25:02:724 | [INFO] | 82884 | ACCC | Core | Applet |  | Core | 864458 | Unloading applet library
+06/20/16 01:25:02:724 | [INFO] | 82884 | ACCC | Core | Applet |  | Core | 864458 | Unloading Applet - CmdCntr_CoreExt for instance ID - CoreInstance
+06/20/16 01:25:02:725 | [INFO] | 82884 | ACCC | Core | Applet |  | Core | 864458 | Unloading applet library
+06/20/16 01:25:02:725 | [INFO] | 82884 | ACCC | C3App | CoreManager |  | C3App | 864458 | Unloading Core applet ...
+06/20/16 01:25:02:725 | [INFO] | 82884 | ACCC | C3App | CoreManager |  | C3App | 864458 | Unloading Core applet complete.
+06/20/16 01:25:02:725 | [INFO] | 82884 | ACCC | C3App | ApplicationContext |  | C3App | 864458 | ************************* END Adobe Creative Cloud. Version: 3.5.1.209 *************************
+06/20/16 01:25:10:142 | [INFO] | 30573 | ADCS | VulcanWrapper | VulcanInterface |  | VulcanWrapper | 865259 | Received RefreshEndPoints callback:

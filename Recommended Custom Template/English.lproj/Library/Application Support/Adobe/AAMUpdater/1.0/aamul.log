@@ -39,3 +39,19 @@
 07/29/15 21:47:05:396 | [INFO] |  | UPDATER | STARTUPUTILITY |  |  |  | 229760 | UCIsUpdaterEnabled : UpdaterIsEnabled.
 07/29/15 21:47:05:396 | [INFO] |  | UPDATER | STARTUPUTILITY |  |  |  | 229760 | Updater has never been run on the machine.
 07/29/15 21:47:05:396 | [INFO] |  | UPDATER | STARTUPUTILITY |  |  |  | 229760 | StartupUtility : Window is NOT Elapsed.
+06/20/16 01:23:59:888 | [INFO] |  | UPDATER | STARTUPUTILITY |  |  |  | 864464 | >>> Adobe Updater Log Begin >>>
+06/20/16 01:23:59:889 | [INFO] |  | UPDATER | STARTUPUTILITY |  |  |  | 864464 | Application Version: 9.0.0.24
+06/20/16 01:23:59:889 | [INFO] |  | UPDATER | STARTUPUTILITY |  |  |  | 864464 | cmdline option: -logFile = /Users/Guest/Library/Application Support/Adobe/AAMUpdater/1.0/aamul.log
+06/20/16 01:23:59:889 | [INFO] |  | UPDATER | STARTUPUTILITY |  |  |  | 864464 | cmdline option: -logLevel = 2
+06/20/16 01:23:59:889 | [INFO] |  | UPDATER | STARTUPUTILITY |  |  |  | 864464 | StartupUtility : Loaded at startup/logon.
+06/20/16 01:23:59:889 | [INFO] |  | UPDATER | STARTUPUTILITY |  |  |  | 864464 | UCIsUpdaterEnabled : UpdaterIsEnabled.
+06/20/16 01:23:59:889 | [INFO] |  | UPDATER | STARTUPUTILITY |  |  |  | 864464 | Updater has never been run on the machine.
+06/20/16 01:23:59:889 | [INFO] |  | UPDATER | STARTUPUTILITY |  |  |  | 864464 | StartupUtility : Window is NOT Elapsed.
+06/20/16 01:23:59:889 | [INFO] |  | UPDATER | STARTUPUTILITY |  |  |  | 864464 | AdobeUpdaterGoCartLauncher : inside initialize.
+06/20/16 01:23:59:891 | [INFO] |  | UPDATER | STARTUPUTILITY |  |  |  | 864464 | AdobeUpdaterGoCartLauncher : inside getLatestGCApplication.
+06/20/16 01:23:59:895 | [INFO] |  | UPDATER | STARTUPUTILITY |  |  |  | 864464 | AdobeUpdaterGoCartLauncher : inside waitForCFUCallBack.
+06/20/16 01:24:00:895 | [INFO] |  | UPDATER | STARTUPUTILITY |  |  |  | 864464 | AdobeUpdaterGoCartLauncher : AdobeGC_CFUCallbackFn is invoked
+06/20/16 01:24:00:895 | [INFO] |  | UPDATER | STARTUPUTILITY |  |  |  | 864464 | AdobeUpdaterGoCartLauncher : inside invokeGCApplication.
+06/20/16 01:24:00:903 | [INFO] |  | UPDATER | STARTUPUTILITY |  |  |  | 864464 | AdobeUpdaterGoCartLauncher : AdobeGC_ReleaseRef called.
+06/20/16 01:24:00:903 | [INFO] |  | UPDATER | STARTUPUTILITY |  |  |  | 864464 | AdobeUpdaterGoCartLauncher : inside finalize.
+06/20/16 01:24:00:903 | [INFO] |  | UPDATER | STARTUPUTILITY |  |  |  | 864464 | AdobeUpdaterGoCartLauncher : unloaded goCart library

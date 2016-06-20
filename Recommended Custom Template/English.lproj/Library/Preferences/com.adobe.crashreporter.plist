@@ -2,7 +2,11 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>lastCrash_Guest_Adobe Desktop Service</key>
+	<string>-1</string>
 	<key>lastCrash_Guest_Core Sync</key>
+	<string>-1</string>
+	<key>lastCrash_Guest_Creative Cloud</key>
 	<string>-1</string>
 </dict>
 </plist>

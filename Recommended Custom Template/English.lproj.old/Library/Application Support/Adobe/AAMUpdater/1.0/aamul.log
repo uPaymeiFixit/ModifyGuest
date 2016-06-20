@@ -1,0 +1,41 @@
+2015-06-12T05:23:10: >>> Adobe Updater Log Begin >>>
+2015-06-12T05:23:10: Application Version: 6.0.0.67
+2015-06-12T05:23:10: cmdline option: -logFile = /Users/Guest/Library/Application Support/Adobe/AAMUpdater/1.0/aamul.log
+2015-06-12T05:23:10: cmdline option: -logLevel = 2
+2015-06-12T05:23:10: StartupUtility : Loaded at startup/logon.
+2015-06-12T05:23:10: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2015-06-12T05:23:10: Updater has never been run on the machine.
+2015-06-12T05:23:10: StartupUtility : Window is NOT Elapsed.
+2015-06-12T05:23:10: <<< Adobe Updater Log End <<<
+
+
+2015-06-12T06:26:04: >>> Adobe Updater Log Begin >>>
+2015-06-12T06:26:04: Application Version: 6.0.0.67
+2015-06-12T06:26:04: cmdline option: -logFile = /Users/Guest/Library/Application Support/Adobe/AAMUpdater/1.0/aamul.log
+2015-06-12T06:26:04: cmdline option: -logLevel = 2
+2015-06-12T06:26:04: StartupUtility : Loaded at startup/logon.
+2015-06-12T06:26:04: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2015-06-12T06:26:04: Updater has never been run on the machine.
+2015-06-12T06:26:04: StartupUtility : Window is NOT Elapsed.
+2015-06-12T06:26:04: <<< Adobe Updater Log End <<<
+
+
+2015-06-12T10:31:32: >>> Adobe Updater Log Begin >>>
+2015-06-12T10:31:32: Application Version: 6.0.0.67
+2015-06-12T10:31:32: cmdline option: -logFile = /Users/Guest/Library/Application Support/Adobe/AAMUpdater/1.0/aamul.log
+2015-06-12T10:31:32: cmdline option: -logLevel = 2
+2015-06-12T10:31:32: StartupUtility : Loaded at startup/logon.
+2015-06-12T10:31:32: UCIsUpdaterEnabled : UpdaterIsEnabled.
+2015-06-12T10:31:32: Updater has never been run on the machine.
+2015-06-12T10:31:32: StartupUtility : Window is NOT Elapsed.
+2015-06-12T10:31:32: <<< Adobe Updater Log End <<<
+
+
+07/29/15 21:47:05:395 | [INFO] |  | UPDATER | STARTUPUTILITY |  |  |  | 229760 | >>> Adobe Updater Log Begin >>>
+07/29/15 21:47:05:395 | [INFO] |  | UPDATER | STARTUPUTILITY |  |  |  | 229760 | Application Version: 9.0.0.12
+07/29/15 21:47:05:395 | [INFO] |  | UPDATER | STARTUPUTILITY |  |  |  | 229760 | cmdline option: -logFile = /Users/Guest/Library/Application Support/Adobe/AAMUpdater/1.0/aamul.log
+07/29/15 21:47:05:396 | [INFO] |  | UPDATER | STARTUPUTILITY |  |  |  | 229760 | cmdline option: -logLevel = 2
+07/29/15 21:47:05:396 | [INFO] |  | UPDATER | STARTUPUTILITY |  |  |  | 229760 | StartupUtility : Loaded at startup/logon.
+07/29/15 21:47:05:396 | [INFO] |  | UPDATER | STARTUPUTILITY |  |  |  | 229760 | UCIsUpdaterEnabled : UpdaterIsEnabled.
+07/29/15 21:47:05:396 | [INFO] |  | UPDATER | STARTUPUTILITY |  |  |  | 229760 | Updater has never been run on the machine.
+07/29/15 21:47:05:396 | [INFO] |  | UPDATER | STARTUPUTILITY |  |  |  | 229760 | StartupUtility : Window is NOT Elapsed.

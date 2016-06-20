@@ -1,0 +1,8 @@
+06/20/16 01:24:06:732 | [INFO] |  |  |  |  |  |  | 865180 | *******************start of Download****************
+06/20/16 01:24:06:732 | [INFO] |  |  |  |  |  |  | 865180 | GDE Version is 3.0.0.17
+06/20/16 01:24:08:234 | [INFO] |  |  |  |  |  |  | 865364 | *******************start of Download****************
+06/20/16 01:24:08:234 | [INFO] |  |  |  |  |  |  | 865364 | GDE Version is 3.0.0.17
+06/20/16 01:24:09:117 | [INFO] |  |  |  |  |  |  | 865220 | The file to be downloaded is https://prod-rel-ffc-ccm.oobesaas.adobe.com/adobe-ffc-external/core/v2/icons?clientID=apps_panel_desktop
+06/20/16 01:24:09:117 | [INFO] |  |  |  |  |  |  | 865220 | Going to download the file at /tmp/2C7AAA74-E7C9-4CE7-9535-223D980AE0CA/30712EEE-5D7C-46FC-B2C8-81B2FF61E6E8
+06/20/16 01:24:09:117 | [INFO] |  |  |  |  |  |  | 865220 | Preference: Client has set the preference for single stream download
+06/20/16 01:24:12:906 | [INFO] |  |  |  |  |  |  | 865453 | File download complete: https://prod-rel-ffc-ccm.oobesaas.adobe.com/adobe-ffc-external/core/v2/icons?clientID=apps_panel_desktop size: 3818060 Bytes, Time Taken:3673.000000 milliseconds 

@@ -1,0 +1,37 @@
+ Time	               Bundle ID	              Status	Comment
+0.000	                       -	                   -	TALagent Started (system uptime: 7767.02 sec)
+0.008	                       -	                   -	Liveness: 0 -> 1 (run_as_server)
+0.016	                       -	                   -	Liveness: 1 -> 2 (create_xpc_listener)
+0.016	                       -	                   -	Blocking app contact
+0.036	                       -	                   -	SecItemCopyMatching() returned errSecItemNotFound. Will attempt to regenerate the key.
+0.037	                       -	                   -	Creating a new encryption key
+0.299	                       -	                   -	server_show_windows_for_asns start
+0.299	                       -	                   -	Allowing apps to contact us
+0.300	                       -	                   -	TAL launch still in progress because com.google.Chrome is unstopped (yes) and/or unhidden (yes)
+0.300	                       -	                   -	Still waiting for registration from com.google.Chrome, Finder
+0.301	                       -	                   -	Liveness: 2 -> 3 (add_app)
+0.301	       com.google.Chrome	           Launching	
+0.304	       com.google.Chrome	                   -	Skipping window creation because the bundle versions don't match (prev: 2357.124 current: 2403.125)
+0.304	                       -	                   -	Finder not yet launched, but pretending it is
+0.304	        com.apple.finder	                   -	Failed to create a window image: Image not signed with encryption key
+0.304	                       -	                   -	loginwindow launched apps com.google.Chrome
+0.304	                       -	                   -	Bitmaps Ready (1 apps, 0 windows)
+0.305	       com.google.Chrome	                   -	Disposing because it has no windows
+0.305	       com.google.Chrome	            Disposed	
+0.305	        com.apple.finder	                   -	Disposing because it has no windows
+0.305	        com.apple.finder	            Disposed	
+0.305	                       -	                   -	server_show_windows_for_asns end
+0.306	                       -	                   -	TAL launch still in progress because com.google.Chrome is unstopped (yes) and/or unhidden (yes)
+0.306	                       -	                   -	Still waiting for registration from com.google.Chrome, Finder
+0.306	                       -	                   -	TAL launch still in progress because com.google.Chrome is unstopped (yes) and/or unhidden (yes)
+0.306	                       -	                   -	Still waiting for registration from com.google.Chrome, Finder
+0.887	        com.apple.finder	                   -	Finder checked in
+0.887	                       -	                   -	TAL launch still in progress because com.google.Chrome is unstopped (yes) and/or unhidden (yes)
+0.887	                       -	                   -	Still waiting for registration from com.google.Chrome
+1.395	       com.google.Chrome	                   -	Registered as TAL ready
+1.395	                       -	                   -	All started apps have registered (no remaining unregistered apps)
+1.395	                       -	                   -	TAL Relaunch - all apps registered as ready
+2.305	                       -	                   -	Liveness: 3 -> 2 (__remove_app_block_invoke)
+3.016	                       -	                   -	Liveness: 2 -> 1 (__create_xpc_listener_block_invoke)
+15.007	                       -	                   -	Liveness: 1 -> 0 (__run_as_server_block_invoke)
+15.007	                       -	                   -	Exiting out of boredom

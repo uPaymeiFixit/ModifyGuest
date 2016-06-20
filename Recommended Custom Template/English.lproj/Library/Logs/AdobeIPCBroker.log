@@ -1,1 +1,15 @@
-﻿
+﻿2016-06-20 01:25:10:141 : ERROR vcfoundation::io::VCEndOfFile: send() failed <32: Broken pipe>
+Trace: 0   AdobeIPCBroker                      0x000230fa AdobeIPCBroker + 139514
+1   AdobeIPCBroker                      0x00022b3d AdobeIPCBroker + 138045
+2   AdobeIPCBroker                      0x00029e60 AdobeIPCBroker + 167520
+3   AdobeIPCBroker                      0x000289e8 AdobeIPCBroker + 162280
+4   AdobeIPCBroker                      0x000263b4 AdobeIPCBroker + 152500
+5   AdobeIPCBroker                      0x0001f7ee AdobeIPCBroker + 124910
+6   AdobeIPCBroker                      0x00026b6d AdobeIPCBroker + 154477
+7   AdobeIPCBroker                      0x00026951 AdobeIPCBroker + 153937
+8   AdobeIPCBroker                      0x0002589a AdobeIPCBroker + 149658
+9   AdobeIPCBroker                      0x000296f7 AdobeIPCBroker + 165623
+10  libsystem_pthread.dylib             0x9b850a26 _pthread_body + 138
+11  libsystem_pthread.dylib             0x9b85099c _pthread_body + 0
+12  libsystem_pthread.dylib             0x9b84df96 thread_start + 34
+

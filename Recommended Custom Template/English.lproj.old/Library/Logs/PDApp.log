@@ -1,0 +1,100 @@
+07/29/15 21:47:12:126 | [INFO] |  | ASU | LWANative | LWANative |  |  | 230710 | Build Version - 9.0.0.106
+07/29/15 21:47:12:126 | [INFO] |  | ASU | LWANative | LWANative |  |  | 230710 | Logging Level verbosity Set  to 4
+07/29/15 21:47:13:450 | [INFO] |  | ASU | LWANative | P7Native |  |  | 230710 | Start : pwa_openSession
+07/29/15 21:47:13:450 | [INFO] |  | ASU | LWANative | P7Native |  |  | 230710 | pwa_openSession Session key : 60294ADB-D4E5-465B-BB4D-E08EFE61992D
+07/29/15 21:47:13:485 | [INFO] |  | ASU | OPM | OPM |  |  | 230710 | Build Version - 9.0.0.78
+07/29/15 21:47:13:485 | [INFO] |  | ASU | OPM | OPM |  |  | 230710 | Logging Level verbosity Set  to 4
+07/29/15 21:47:13:487 | [INFO] |  | ASU | OPM | OPM |  |  | 230710 | _opm_handle_OPDReturnedStatus called with opdStatus as:0
+07/29/15 21:47:13:487 | [INFO] |  | ASU | OPM | OPM |  |  | 230710 | No Record found for the input fields in opm_getValueForKey
+07/29/15 21:47:13:487 | [INFO] |  | ASU | OPM | OPM |  |  | 230710 | Released OPM refrence successfully in opm_freeLibRef
+07/29/15 21:47:13:660 | [INFO] |  | ASU | LWANative | P7Native |  |  | 230710 | End : pwa_openSession
+07/29/15 21:47:13:663 | [INFO] |  | ASU | LWANative | P7Native |  |  | 230710 | Start : pwa_getDeviceID
+07/29/15 21:47:13:664 | [INFO] |  | ASU | OPM | OPM |  |  | 230710 | Build Version - 9.0.0.106
+07/29/15 21:47:13:664 | [INFO] |  | ASU | OPM | OPM |  |  | 230710 | Logging Level verbosity Set  to 4
+07/29/15 21:47:13:667 | [INFO] |  | ASU | OPM | OPM |  |  | 230710 | Schema version and schema compatibility version are same or greater than current
+
+07/29/15 21:47:13:667 | [INFO] |  | ASU | OPM | OPM |  |  | 230710 | _opm_handle_OPDReturnedStatus called with opdStatus as:0
+07/29/15 21:47:13:667 | [INFO] |  | ASU | OPM | OPM |  |  | 230710 | No Record found for the input fields in opm_getValueForKey
+07/29/15 21:47:13:667 | [WARN] |  | ASU | OPM | OPMWrapper |  |  | 230710 | Failed in getting value for key in OPMGetValueForKey
+07/29/15 21:47:13:667 | [INFO] |  | ASU | OPM | P7Native |  |  | 230710 | OOBELibSessionForDeviceID : DeviceId not present in local db generating it from scratch in pwa_getDeviceID
+07/29/15 21:47:13:667 | [INFO] |  | ASU | OPM | P7Native |  |  | 230710 | Start : generateDeviceID
+07/29/15 21:47:13:672 | [INFO] |  | ASU | OPM | P7Native |  |  | 230710 | End : generateDeviceID
+07/29/15 21:47:13:672 | [INFO] |  | ASU | OPM | P7Native |  |  | 230710 | End : pwa_getDeviceID
+07/29/15 21:47:13:672 | [INFO] |  | ASU | OPM | OPM |  |  | 230710 | Released OPM refrence successfully in opm_freeLibRef
+07/29/15 21:47:13:675 | [INFO] |  | ASU | OPM | P7Native |  |  | 230710 | Start : pwa_getMachineHashedID
+07/29/15 21:47:13:677 | [INFO] |  | ASU | OPM | P7Native |  |  | 230710 | End : pwa_getMachineHashedID
+07/29/15 21:47:13:679 | [INFO] |  | ASU | OPM | P7Native |  |  | 230710 | Start : pwa_closeSession
+07/29/15 21:47:13:713 | [INFO] |  | ASU | OPM | P7Native |  |  | 230710 | End : pwa_closeSession
+07/29/15 21:47:13:714 | [INFO] |  | ASU | OPM | OPM |  |  | 230710 | Build Version - 9.0.1.57
+07/29/15 21:47:13:715 | [INFO] |  | ASU | OPM | OPM |  |  | 230710 | Logging Level verbosity Set  to 4
+07/29/15 21:47:13:716 | [INFO] |  | ASU | OPM | OPM |  |  | 230710 | Schema version and schema compatibility version are same or greater than current
+
+07/29/15 21:47:13:716 | [INFO] |  | ASU | OPM | OPM |  |  | 230710 | _opm_handle_OPDReturnedStatus called with opdStatus as:0
+07/29/15 21:47:13:716 | [INFO] |  | ASU | OPM | OPM |  |  | 230710 | No Record found for the input fields in opm_getValueForKey
+07/29/15 21:47:13:716 | [INFO] |  | ASU | OPM | OPM |  |  | 230710 | Released OPM refrence successfully in opm_freeLibRef
+07/29/15 21:47:13:725 | [INFO] |  | ASU | OPM | P7Native |  |  | 230710 | Performing openIMSLibSessionWithXMLParams...
+07/29/15 21:47:13:725 | [INFO] |  | ASU | OPM | P7Native |  |  | 230710 | pwa_openIMSLibSessionWithXMLParams Session key : E7808963-B4B7-41A3-B2BF-928FE62E5F0E
+07/29/15 21:47:13:883 | [INFO] |  | ASU | IMSLib | IMSLib |  |  | 230710 | Build Version - 9.0.1.19
+07/29/15 21:47:13:883 | [INFO] |  | ASU | IMSLib | IMSLib |  |  | 230710 | Logging Level verbosity Set  to 4
+07/29/15 21:47:13:883 | [INFO] |  | ASU | IMSLib | IMSLib |  |  | 230710 | Creating IMSLib instance WithXMLParams ...
+07/29/15 21:47:13:886 | [INFO] |  | ASU | IMSLib | IMSLib |  |  | 230710 | Failed to retreive locale from the input xml in IMS_createRefExWithXMLParams
+07/29/15 21:47:13:887 | [INFO] |  | ASU | OPM | OPM |  |  | 230710 | Build Version - 9.0.1.19
+07/29/15 21:47:13:887 | [INFO] |  | ASU | OPM | OPM |  |  | 230710 | Logging Level verbosity Set  to 4
+07/29/15 21:47:13:891 | [INFO] |  | ASU | OPM | OPM |  |  | 230710 | Schema version and schema compatibility version are same or greater than current
+
+07/29/15 21:47:13:891 | [INFO] |  | ASU | OPM | IMSLibHelper |  |  | 230710 | OPMWrapper allocation succeeded
+07/29/15 21:47:13:891 | [INFO] |  | ASU | OPM | IMSLib |  |  | 230710 | This product version is for GM
+07/29/15 21:47:13:895 | [INFO] |  | ASU | OPM | IMSLib |  |  | 230710 | URL retreived from dispatchlib https://ims-prod06.adobelogin.com
+07/29/15 21:47:13:895 | [INFO] |  | ASU | OPM | IMSLib |  |  | 230710 | Created IMSLib instance with endpoint:https://ims-prod06.adobelogin.com in IMS_createRefExWithXMLParams
+07/29/15 21:47:13:895 | [INFO] |  | ASU | OPM | OPM |  |  | 230710 | _opm_handle_OPDReturnedStatus called with opdStatus as:0
+07/29/15 21:47:13:895 | [INFO] |  | ASU | OPM | OPM |  |  | 230710 | No Record found for the input fields in opm_getValueForKey
+07/29/15 21:47:13:895 | [INFO] |  | ASU | OPM | IMSLib_OPMWrapper |  |  | 230710 | Failed in getting value for key in OPMGetValueForKey domain:OOBE subDomain:ProxyCredentials key:ProxyUsername
+07/29/15 21:47:13:895 | [INFO] |  | ASU | OPM | IMSLibHelper |  |  | 230710 | Failed to get proxy user name from local db in getProxyCredentialsFromLocalStore
+07/29/15 21:47:13:896 | [INFO] |  | ASU | OPM | IMSLib |  |  | 230710 | Failed to get proxy credentials from local store in IMS_createRefExWithXMLParams
+07/29/15 21:47:13:896 | [INFO] |  | ASU | OPM | IMSLib |  |  | 230710 | Performing IMS_registerClientToGroup..
+07/29/15 21:47:13:896 | [INFO] |  | ASU | OPM | OPM |  |  | 230710 | Performing opm_getRecords...
+07/29/15 21:47:13:896 | [INFO] |  | ASU | OPM | OPM |  |  | 230710 | _opm_handle_OPDReturnedStatus called with opdStatus as:0
+07/29/15 21:47:13:896 | [INFO] |  | ASU | OPM | OPM |  |  | 230710 | No Record found for the input fields in opm_getRecords
+07/29/15 21:47:13:896 | [WARN] |  | ASU | OPM | IMSLib_OPMWrapper |  |  | 230710 | Failed in getting list of keys in OPMGetKeyList
+07/29/15 21:47:13:896 | [WARN] |  | ASU | OPM | IMSLibHelper |  |  | 230710 | Failed in getting buddy groupList in getBuddyClients
+07/29/15 21:47:13:896 | [INFO] |  | ASU | OPM | OPM |  |  | 230710 | _opm_handle_OPDReturnedStatus called with opdStatus as:0
+07/29/15 21:47:13:896 | [INFO] |  | ASU | OPM | OPM |  |  | 230710 | No Record found for the input fields in opm_getValueForKey
+07/29/15 21:47:13:896 | [INFO] |  | ASU | OPM | IMSLib_OPMWrapper |  |  | 230710 | Failed in getting value for key in OPMGetValueForKey domain:IMSLib subDomain:BuddyGroup key:0
+07/29/15 21:47:13:897 | [INFO] |  | ASU | OPM | OPM |  |  | 230710 | _opm_handle_OPDReturnedStatus called with opdStatus as:0
+07/29/15 21:47:13:897 | [INFO] |  | ASU | OPM | OPM |  |  | 230710 | Successfully updated opm.db for fields domain:IMSLib subdomain:BuddyGroup key:0 in opm_setValueForKey
+07/29/15 21:47:13:897 | [INFO] |  | ASU | OPM | OPM |  |  | 230710 | _opm_handle_OPDReturnedStatus called with opdStatus as:0
+07/29/15 21:47:13:897 | [INFO] |  | ASU | OPM | OPM |  |  | 230710 | No Record found for the input fields in opm_getValueForKey
+07/29/15 21:47:13:897 | [INFO] |  | ASU | OPM | IMSLib_OPMWrapper |  |  | 230710 | Failed in getting value for key in OPMGetValueForKey domain:IMSLib subDomain:CSServiceMap key:426eb9f9-9989-45dd-8b7c-1bcdc957c8e5
+07/29/15 21:47:13:897 | [WARN] |  | ASU | OPM | IMSLibHelper |  |  | 230710 | Failed in fetching default user id for the service, while processing fetchDefaultUserGUIDForClientID
+07/29/15 21:47:13:897 | [INFO] |  | ASU | OPM | IMSLib |  |  | 230710 | Not duplicating the DUC entry - fetchDefaultUserGUIDForClientID failed in IMS_registerClientToGroup
+07/29/15 21:47:13:897 | [INFO] |  | ASU | OPM | P7Native |  |  | 230710 | Successfully registered AAM Client to Buddy group in pwa_openIMSLibSessionWithXMLParams.
+07/29/15 21:47:13:901 | [INFO] |  | ASU | OPM | P7Native |  |  | 230710 | Performing registeration of client to group
+07/29/15 21:47:13:902 | [INFO] |  | ASU | OPM | IMSLib |  |  | 230710 | Performing IMS_registerClientToGroup..
+07/29/15 21:47:13:902 | [INFO] |  | ASU | OPM | OPM |  |  | 230710 | Performing opm_getRecords...
+07/29/15 21:47:13:902 | [INFO] |  | ASU | OPM | OPM |  |  | 230710 | _opm_handle_OPDReturnedStatus called with opdStatus as:0
+07/29/15 21:47:13:902 | [INFO] |  | ASU | OPM | OPM |  |  | 230710 | _opm_handle_OPDReturnedStatus called with opdStatus as:0
+07/29/15 21:47:13:902 | [INFO] |  | ASU | OPM | OPM |  |  | 230710 | returning size of value as:40 in opm_getValueForKey
+07/29/15 21:47:13:902 | [INFO] |  | ASU | OPM | OPM |  |  | 230710 | _opm_handle_OPDReturnedStatus called with opdStatus as:0
+07/29/15 21:47:13:902 | [INFO] |  | ASU | OPM | OPM |  |  | 230710 | Successfully retreived value from opm domain:IMSLib subdomain:BuddyGroup key:0 in opm_getValueForKey
+07/29/15 21:47:13:902 | [INFO] |  | ASU | OPM | OPM |  |  | 230710 | _opm_handle_OPDReturnedStatus called with opdStatus as:0
+07/29/15 21:47:13:902 | [INFO] |  | ASU | OPM | OPM |  |  | 230710 | returning size of value as:40 in opm_getValueForKey
+07/29/15 21:47:13:903 | [INFO] |  | ASU | OPM | OPM |  |  | 230710 | _opm_handle_OPDReturnedStatus called with opdStatus as:0
+07/29/15 21:47:13:903 | [INFO] |  | ASU | OPM | OPM |  |  | 230710 | Successfully retreived value from opm domain:IMSLib subdomain:BuddyGroup key:0 in opm_getValueForKey
+07/29/15 21:47:13:903 | [INFO] |  | ASU | OPM | OPM |  |  | 230710 | _opm_handle_OPDReturnedStatus called with opdStatus as:0
+07/29/15 21:47:13:903 | [INFO] |  | ASU | OPM | OPM |  |  | 230710 | Successfully updated opm.db for fields domain:IMSLib subdomain:BuddyGroup key:0 in opm_setValueForKey
+07/29/15 21:47:13:903 | [INFO] |  | ASU | OPM | OPM |  |  | 230710 | _opm_handle_OPDReturnedStatus called with opdStatus as:0
+07/29/15 21:47:13:903 | [INFO] |  | ASU | OPM | OPM |  |  | 230710 | No Record found for the input fields in opm_getValueForKey
+07/29/15 21:47:13:903 | [INFO] |  | ASU | OPM | IMSLib_OPMWrapper |  |  | 230710 | Failed in getting value for key in OPMGetValueForKey domain:IMSLib subDomain:CSServiceMap key:426eb9f9-9989-45dd-8b7c-1bcdc957c8e5
+07/29/15 21:47:13:903 | [WARN] |  | ASU | OPM | IMSLibHelper |  |  | 230710 | Failed in fetching default user id for the service, while processing fetchDefaultUserGUIDForClientID
+07/29/15 21:47:13:903 | [INFO] |  | ASU | OPM | IMSLib |  |  | 230710 | Not duplicating the DUC entry - fetchDefaultUserGUIDForClientID failed in IMS_registerClientToGroup
+07/29/15 21:47:13:903 | [INFO] |  | ASU | OPM | P7Native |  |  | 230710 | Registered Client to group successfully!
+07/29/15 21:47:13:906 | [INFO] |  | ASU | OPM | P7Native |  |  | 230710 | Performing fetch default user for clientID...
+07/29/15 21:47:13:906 | [INFO] |  | ASU | OPM | IMSLib |  |  | 230710 | Performing fetchDefaultUserInfoForClientId...
+07/29/15 21:47:13:906 | [INFO] |  | ASU | OPM | OPM |  |  | 230710 | _opm_handle_OPDReturnedStatus called with opdStatus as:0
+07/29/15 21:47:13:906 | [INFO] |  | ASU | OPM | OPM |  |  | 230710 | No Record found for the input fields in opm_getValueForKey
+07/29/15 21:47:13:906 | [INFO] |  | ASU | OPM | IMSLib_OPMWrapper |  |  | 230710 | Failed in getting value for key in OPMGetValueForKey domain:IMSLib subDomain:CSServiceMap key:CreativeCloud_v2_2
+07/29/15 21:47:13:906 | [WARN] |  | ASU | OPM | IMSLibHelper |  |  | 230710 | Failed in fetching default user id for the service, while processing fetchDefaultUserGUIDForClientID
+07/29/15 21:47:13:906 | [INFO] |  | ASU | OPM | IMSLib |  |  | 230710 | Failed to get default user for clientId in fetchDefaultUserInfoForClientId...
+07/29/15 21:47:13:906 | [WARN] |  | ASU | OPM | P7Native |  |  | 230710 | failed in IMSLib's fetchDefaultUserInfoForClientId function, in getDefaultUserForClientId
+07/29/15 21:47:13:906 | [INFO] |  | ASU | OPM | IMSLib |  |  | 230710 | Performing releaseData...
+07/29/15 21:47:13:906 | [INFO] |  | ASU | OPM | P7Native |  |  | 230710 | Unable to find default user for client_id: CreativeCloud_v2_2

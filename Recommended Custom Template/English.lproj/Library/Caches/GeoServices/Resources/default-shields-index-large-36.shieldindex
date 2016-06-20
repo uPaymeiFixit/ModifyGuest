@@ -1,0 +1,150 @@
+
+
+generic-white-none-green—
+!
+TRANSIT_LineShield_CircleÀš
+2
+*TRANSIT_LineShield_Circle_LegibleBlackTextÈš
+&
+ TRANSIT_DynamicModeShield_SubwayÊ¾
+‚
+generic-green-white-yellow´B¾BãOæBÜBáBÙOÚO­¡¢C¤C¦C¶C¸CºCÆCÈCÊC¸CÒCâCàCğCüCşC¦DªD°D²D³¸½Â
+
+generic-white-none-black
+:
+4TRANSIT_LineShield_Circle_Condensed_LegibleBlackTextÍš
+:
+4TRANSIT_LineShield_RoundedRectangle_LegibleBlackTextÉš
+
+TRANSIT_Maneuver_Embark×è
+)
+#TRANSIT_LineShield_Circle_CondensedÊš
+F
+ TRANSIT_ModeShield_AerialTramwayæ¶ôÀõÀ÷ÀøÀùÀúÀûÀöÀ
+ 
+TRANSIT_LineShield_DiamondÆš
+Q
+TRANSIT_ModeShield_Railâ¶Ä·È·Ë·Ì·Í·Î·Ï·Ğ·Ñ·Ó·Ô·Õ·Œ¹
+>
+TRANSIT_ModeShield_LightRailà¶ä½å½æ½ç½è½é½ê½
+-
+'TRANSIT_DynamicModeShield_HighSpeedRailĞ¾
+.
+ TRANSIT_ModeShield_Rail_NationalÉ·Æ·Ç·
+1
++TRANSIT_LineShield_CircleOutlined_CondensedËš
+.
+TRANSIT_ModeShield_Funicularç¶ØÁÙÁÚÁ
+C
+generic-darkyellow-none-black¹ôOÍ¶ÎøÎùÎ¥í 
+
+generic-green-none-yellowC
+)
+generic-darkblue-white-whitedÈ©•
+'
+!TRANSIT_NodeShield_CircleOutlinedÁ‹
+:
+TRANSIT_ModeShield_Coach¨¸«¸¬¸­¸®¸¯¸°¸±¸
+*
+ TRANSIT_ModeShield_Rail_RegionalÊ·Ò·
+…
+generic-lightblue-white-whiteùôù©Å%¢ï¨‘Ôì'ùKœŠ…‘N»Ë¬»›NØÌ!”#™#Ü$Å%©&'Õ(…Šˆ'
+!
+generic-brown-white-whiteñ	¯
+%
+TRANSIT_DynamicModeShield_CoachÒ¾
+!
+generic-darkblue-none-yellow¶ 
+ 
+TRANSIT_ModeShield_Shuttle§¼
+%
+TRANSIT_Station_Gate_Chrome°½±½
+,
+&TRANSIT_LineShield_Rectangle_CondensedÎš
+(
+"TRANSIT_LineShield_DiamondOutlinedÇš
+#
+TRANSIT_DynamicModeShield_BusÈ¾
+%
+TRANSIT_DynamicModeShield_FerryÌ¾
+"
+TRANSIT_LineShield_RectangleÄš
+'
+TRANSIT_ModeShield_Subwayá¶ò¹¸»
+(
+"TRANSIT_DynamicModeShield_CableCarÍ¾
+
+TRANSIT_Maneuver_TransferÖè
+-
+'TRANSIT_DynamicModeShield_AerialTramwayÎ¾
+{
+generic-red-white-whiteÍÉ‰ˆĞOôBşBÀ%˜üàÄÉ„CÉÉÈ±ÉîÄÀCÄÉÉ è Ñ!ÉôCÀ%	
+$
+generic-lightblue-none-whiteşû'
+)
+#TRANSIT_DynamicModeShield_LightRailÉ¾
+)
+#TRANSIT_DynamicModeShield_FunicularÏ¾
+ 
+TRANSIT_Maneuver_DisembarkØè
+
+TRANSIT_Station_Gate_Map²½
+]
+generic-lightyellow-none-blackÕ×BÎæKÑOìé´§åÎÎÎÙÎø#®&†´Û
+
+TRANSIT_NodeShield_CircleÀ‹
+!
+TRANSIT_ModeShield_CableCarå¶
+1
++TRANSIT_LineShield_RoundedRectangleOutlinedÃš
+J
+TRANSIT_ModeShield_Ferryä¶ÀÔ¾Õ¾Ö¾×¾Ø¾Ù¾Ú¾Û¾Ü¾İ¾
+$
+TRANSIT_DynamicModeShield_RailË¾
+;
+generic-green-white-whiteÒÁ ’NôçCæCÁD€
+%
+TRANSIT_ModeShield_Bus_Regional¼
+
+generic-blue-white-whiteŞ
+\
+TRANSIT_ModeShield_Busã¶œ¼¼Ÿ¼ ¼¡¼¢¼£¼¤¼¥¼¦¼¨¼©¼ª¼«¼¬¼€½
+!
+TRANSIT_ModeShield_CarFerryÓ¾
+!
+generic-white-none-green-dim—
+3
+-TRANSIT_LineShield_RoundedRectangle_CondensedÌš
+
+TRANSIT_Maneuver_WalkÒè
+3
+TRANSIT_ModeShield_Rail_Urbanğ¹ñ¹ó¹ô¹Ôº
+(
+"TRANSIT_DynamicModeShield_MonorailÑ¾
+)
+TRANSIT_ModeShield_Bus_National©¸ª¸
+'
+!TRANSIT_LineShield_CircleOutlinedÁš
+*
+$TRANSIT_LineShield_RectangleOutlinedÅš
+'
+!TRANSIT_DynamicModeShield_ShuttleŞ¾
+%
+TRANSIT_ModeShield_Monorailì¶õ¹
+)
+#TRANSIT_LineShield_RoundedRectangleÂš
+*
+ TRANSIT_ModeShield_HighSpeedRailè¶Å·•(
+ generic-lightblue-none-white-dimşû'"
+generic-green-none-yellow-dimC?
+generic-green-white-white-dimÒÁ ’NôçCæCÁD€a
+"generic-lightyellow-none-black-dimÕ×BÎæKÑOìé´§åÎÎÎÙÎø#®&†´Û 
+generic-white-none-black-dim†
+generic-green-white-yellow-dim´B¾BãOæBÜBáBÙOÚO­¡¢C¤C¦C¶C¸CºCÆCÈCÊC¸CÒCâCàCğCüCşC¦DªD°D²D³¸½Â%
+generic-brown-white-white-dimñ	¯%
+ generic-darkblue-none-yellow-dim¶ 
+generic-red-white-white-dimÍÉ‰ˆĞOôBşBÀ%˜üàÄÉ„CÉÉÈ±ÉîÄÀCÄÉÉ è Ñ!ÉôCÀ%	!
+generic-blue-white-white-dimŞ-
+ generic-darkblue-white-white-dimdÈ©•‰
+!generic-lightblue-white-white-dimùôù©Å%¢ï¨‘Ôì'ùKœŠ…‘N»Ë¬»›NØÌ!”#™#Ü$Å%©&'Õ(…Šˆ'G
+!generic-darkyellow-none-black-dim¹ôOÍ¶ÎøÎùÎ¥í 

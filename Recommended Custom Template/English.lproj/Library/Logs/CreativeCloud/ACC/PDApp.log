@@ -1,0 +1,7 @@
+06/20/16 01:24:09:832 | [INFO] |  | ASU | OPM | OPM |  |  | 865180 | Build Version - 9.0.1.57
+06/20/16 01:24:09:832 | [INFO] |  | ASU | OPM | OPM |  |  | 865180 | Logging Level verbosity Set  to 4
+06/20/16 01:24:09:854 | [INFO] |  | ASU | OPM | OPM |  |  | 865180 | Schema version and schema compatibility version are same or greater than current
+
+06/20/16 01:24:09:854 | [INFO] |  | ASU | OPM | OPM |  |  | 865180 | _opm_handle_OPDReturnedStatus called with opdStatus as:0
+06/20/16 01:24:09:865 | [INFO] |  | ASU | OPM | OPM |  |  | 865180 | No Record found for the input fields in opm_getValueForKey
+06/20/16 01:24:09:865 | [INFO] |  | ASU | OPM | OPM |  |  | 865180 | Released OPM refrence successfully in opm_freeLibRef

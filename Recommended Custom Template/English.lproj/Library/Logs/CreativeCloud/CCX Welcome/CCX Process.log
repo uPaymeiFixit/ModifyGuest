@@ -1,0 +1,49 @@
+Mon Jun 20 2016 01:24:12 GMT-0700 (PDT) CCXWelcome > VulcanWrapper > Loading Vulcan Library...
+Mon Jun 20 2016 01:24:12 GMT-0700 (PDT) CCXWelcome > VulcanWrapper > Vulcan Library Successfully Loaded.
+Mon Jun 20 2016 01:24:12 GMT-0700 (PDT) CCXWelcome > IMS > Loading IMS Library...
+Mon Jun 20 2016 01:24:12 GMT-0700 (PDT) CCXWelcome > IMS > IMS Library Successfully Loaded.
+Mon Jun 20 2016 01:24:13 GMT-0700 (PDT) CCXWelcome > FileUtils > lockfile:/Users/Guest/Library/Caches/Adobe/CCX Welcome/.lockfile
+Mon Jun 20 2016 01:24:13 GMT-0700 (PDT) Get lock file successfully.
+Mon Jun 20 2016 01:24:14 GMT-0700 (PDT) CCXWelcome > Proxy > Got 177 certificates
+Mon Jun 20 2016 01:24:14 GMT-0700 (PDT) -------------------------Startup------------------------------
+Mon Jun 20 2016 01:24:14 GMT-0700 (PDT) Build version is 1.1.0-109
+Mon Jun 20 2016 01:24:14 GMT-0700 (PDT) CCXWelcome > LookupMap > Failed to load lookup file from disk: Error: ENOENT, open '/Users/Guest/Library/Caches/Adobe/CCX Welcome/data/map.json'
+Mon Jun 20 2016 01:24:14 GMT-0700 (PDT) CCXWelcome > VulcanWrapper > -> BROADCAST: ccxprocess.Initialized
+Mon Jun 20 2016 01:24:14 GMT-0700 (PDT) CCXWelcome > IMS > Error fetching default user: IMSError: [DEFAULT_USER_FOR_CLIENTID_NOT_PRESENT] Error returned if there is no default user for client_id
+Mon Jun 20 2016 01:24:15 GMT-0700 (PDT) CCXWelcome > VulcanWrapper > -> ADCS *: accc.app.ProxySettingsRequest
+Mon Jun 20 2016 01:24:15 GMT-0700 (PDT) CCXWelcome > VulcanWrapper > -> ADCS *: accc.notifications
+Mon Jun 20 2016 01:24:15 GMT-0700 (PDT) CCXWelcome > VulcanWrapper > <- ADCS 3.5.0: accc.app.ProxySettingsResponse
+Mon Jun 20 2016 01:24:15 GMT-0700 (PDT) CCXWelcome > ThorNotifications > GetProxySettings - Successfully obtained username/password from Thor
+Mon Jun 20 2016 01:24:15 GMT-0700 (PDT) CCXWelcome > Proxy > Setting proxy username and password
+Mon Jun 20 2016 01:24:15 GMT-0700 (PDT) CCXWelcome > LookupMap > GC starts.
+Mon Jun 20 2016 01:24:15 GMT-0700 (PDT) CCXWelcome > LookupMap > GC ended successfully.
+Mon Jun 20 2016 01:24:25 GMT-0700 (PDT) CCXWelcome > VulcanWrapper > <- ADCS 3.5.0: ccxprocess.in.request.app.ping
+Mon Jun 20 2016 01:24:25 GMT-0700 (PDT) CCXWelcome > VulcanWrapper > -> ADCS 3.5.0: ccxprocess.out.response.app.ping
+Mon Jun 20 2016 01:24:40 GMT-0700 (PDT) CCXWelcome > VulcanWrapper > <- ADCS 3.5.0: ccxprocess.in.request.app.ping
+Mon Jun 20 2016 01:24:40 GMT-0700 (PDT) CCXWelcome > VulcanWrapper > -> ADCS 3.5.0: ccxprocess.out.response.app.ping
+Mon Jun 20 2016 01:24:55 GMT-0700 (PDT) CCXWelcome > VulcanWrapper > <- ADCS 3.5.0: ccxprocess.in.request.app.ping
+Mon Jun 20 2016 01:24:55 GMT-0700 (PDT) CCXWelcome > VulcanWrapper > -> ADCS 3.5.0: ccxprocess.out.response.app.ping
+Mon Jun 20 2016 01:25:10 GMT-0700 (PDT) CCXWelcome > VulcanWrapper > <- ADCS 3.5.0: ccxprocess.in.request.app.ping
+Mon Jun 20 2016 01:25:10 GMT-0700 (PDT) CCXWelcome > VulcanWrapper > -> ADCS 3.5.0: ccxprocess.out.response.app.ping
+Mon Jun 20 2016 01:25:25 GMT-0700 (PDT) CCXWelcome > VulcanWrapper > <- ADCS 3.5.0: ccxprocess.in.request.app.ping
+Mon Jun 20 2016 01:25:25 GMT-0700 (PDT) CCXWelcome > VulcanWrapper > -> ADCS 3.5.0: ccxprocess.out.response.app.ping
+Mon Jun 20 2016 01:25:40 GMT-0700 (PDT) CCXWelcome > VulcanWrapper > <- ADCS 3.5.0: ccxprocess.in.request.app.ping
+Mon Jun 20 2016 01:25:40 GMT-0700 (PDT) CCXWelcome > VulcanWrapper > -> ADCS 3.5.0: ccxprocess.out.response.app.ping
+Mon Jun 20 2016 01:25:55 GMT-0700 (PDT) CCXWelcome > VulcanWrapper > <- ADCS 3.5.0: ccxprocess.in.request.app.ping
+Mon Jun 20 2016 01:25:55 GMT-0700 (PDT) CCXWelcome > VulcanWrapper > -> ADCS 3.5.0: ccxprocess.out.response.app.ping
+Mon Jun 20 2016 01:26:10 GMT-0700 (PDT) CCXWelcome > VulcanWrapper > <- ADCS 3.5.0: ccxprocess.in.request.app.ping
+Mon Jun 20 2016 01:26:10 GMT-0700 (PDT) CCXWelcome > VulcanWrapper > -> ADCS 3.5.0: ccxprocess.out.response.app.ping
+Mon Jun 20 2016 01:26:25 GMT-0700 (PDT) CCXWelcome > VulcanWrapper > <- ADCS 3.5.0: ccxprocess.in.request.app.ping
+Mon Jun 20 2016 01:26:25 GMT-0700 (PDT) CCXWelcome > VulcanWrapper > -> ADCS 3.5.0: ccxprocess.out.response.app.ping
+Mon Jun 20 2016 01:26:40 GMT-0700 (PDT) CCXWelcome > VulcanWrapper > <- ADCS 3.5.0: ccxprocess.in.request.app.ping
+Mon Jun 20 2016 01:26:40 GMT-0700 (PDT) CCXWelcome > VulcanWrapper > -> ADCS 3.5.0: ccxprocess.out.response.app.ping
+Mon Jun 20 2016 01:26:55 GMT-0700 (PDT) CCXWelcome > VulcanWrapper > <- ADCS 3.5.0: ccxprocess.in.request.app.ping
+Mon Jun 20 2016 01:26:55 GMT-0700 (PDT) CCXWelcome > VulcanWrapper > -> ADCS 3.5.0: ccxprocess.out.response.app.ping
+Mon Jun 20 2016 01:27:10 GMT-0700 (PDT) CCXWelcome > VulcanWrapper > <- ADCS 3.5.0: ccxprocess.in.request.app.ping
+Mon Jun 20 2016 01:27:10 GMT-0700 (PDT) CCXWelcome > VulcanWrapper > -> ADCS 3.5.0: ccxprocess.out.response.app.ping
+Mon Jun 20 2016 01:27:25 GMT-0700 (PDT) CCXWelcome > VulcanWrapper > <- ADCS 3.5.0: ccxprocess.in.request.app.ping
+Mon Jun 20 2016 01:27:25 GMT-0700 (PDT) CCXWelcome > VulcanWrapper > -> ADCS 3.5.0: ccxprocess.out.response.app.ping
+Mon Jun 20 2016 01:27:40 GMT-0700 (PDT) CCXWelcome > VulcanWrapper > <- ADCS 3.5.0: ccxprocess.in.request.app.ping
+Mon Jun 20 2016 01:27:40 GMT-0700 (PDT) CCXWelcome > VulcanWrapper > -> ADCS 3.5.0: ccxprocess.out.response.app.ping
+Mon Jun 20 2016 01:27:55 GMT-0700 (PDT) CCXWelcome > VulcanWrapper > <- ADCS 3.5.0: ccxprocess.in.request.app.ping
+Mon Jun 20 2016 01:27:55 GMT-0700 (PDT) CCXWelcome > VulcanWrapper > -> ADCS 3.5.0: ccxprocess.out.response.app.ping
