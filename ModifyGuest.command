@@ -82,7 +82,7 @@ else
     echo "Would you like to open the backup folder? (Y/n)"
     read -r response
     if [[ $response =~ ^([yY][eE][sS]|[yY])$ ]]; then
-        open /System/Library/User\ Template/English.lproj
+        open /System/Library/User\ Template/
     fi
 
     echo ""
